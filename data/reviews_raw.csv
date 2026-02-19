@@ -1,0 +1,721 @@
+review_id,hotel_id,reviewer_name,rating,review_text,source,created_at
+R1,HOTEL_001,Rahul,5,"Great stay, rooms were very clean and staff was polite. I paid 6000 per night",internal,2025-05-07T09:00:54.831529
+R2,HOTEL_001,Neha,3,"Hotel was okay, nothing special. Worst service, staff is stupid",booking,2025-05-10T09:00:54.831529
+R3,HOTEL_001,Rohit,2,"Bad experience, too much noise at night",internal,2025-08-02T09:00:54.831529
+R4,HOTEL_001,Neha,3,"Hotel was okay, nothing special. Price is too high for this hotel. Call me at 9876543210",booking,2025-05-09T09:00:54.831529
+R5,HOTEL_001,Rohit,3,"Hotel was okay, nothing special. Tariff was 5200 INR. Check www.fakehotel.com",booking,2025-03-23T09:00:54.831529
+R6,HOTEL_001,Sneha,4,Excellent hotel with prime location and good amenities. Call me at 9876543210,google,2025-04-29T09:00:54.831529
+R7,HOTEL_001,Rahul,4,"Great stay, rooms were very clean and staff was polite. Price is too high for this hotel. Email me at test@gmail.com",booking,2025-03-14T09:00:54.831529
+R8,HOTEL_001,Nikhil,4,Excellent hotel with prime location and good amenities. More details at http://spamlink.com,booking,2026-01-01T09:00:54.831529
+R9,HOTEL_001,Amit,3,"Average stay, decent location. Check www.fakehotel.com",booking,2026-01-30T09:00:54.831529
+R10,HOTEL_001,Pooja,3,Stay was acceptable for one night. Call me at 9876543210,booking,2025-09-26T09:00:54.831529
+R11,HOTEL_001,Arjun,4,Excellent hotel with prime location and good amenities,booking,2025-04-04T09:00:54.831529
+R12,HOTEL_001,Sonal,3,"Okay experience, food was average. Tariff was 5200 INR. More details at http://spamlink.com",booking,2025-08-02T09:00:54.831529
+R13,HOTEL_001,Ankit,2,"Food theek tha, nothing great. Call me at 9876543210",booking,2025-03-21T09:00:54.831529
+R14,HOTEL_001,Sneha,5,Gym and pool were well maintained. Manager Ravi handled the issue,google,2026-01-14T09:00:54.831529
+R15,HOTEL_001,Arjun,3,"Hotel was okay, nothing special",booking,2025-04-10T09:00:54.831529
+R16,HOTEL_001,Amit,3,"Average stay, decent location. Tariff was 5200 INR",google,2025-06-21T09:00:54.831529
+R17,HOTEL_001,Vikas,3,Stay was acceptable for one night,internal,2026-01-09T09:00:54.831529
+R18,HOTEL_001,Nikhil,1,"Not worth it, rooms were smelly",google,2025-05-15T09:00:54.831529
+R19,HOTEL_001,Priya,5,"Very comfortable rooms, will definitely visit again. Cost was ₹4500",internal,2025-08-02T09:00:54.831529
+R20,HOTEL_001,Sneha,3,Room clean tha but staff thoda slow tha,google,2025-11-21T09:00:54.831529
+R21,HOTEL_001,Pooja,5,"Amazing service, bathroom was spotless. Price is too high for this hotel",google,2025-06-02T09:00:54.831529
+R22,HOTEL_001,Simran,3,"Hotel was okay, nothing special. Tariff was 5200 INR",google,2025-09-22T09:00:54.831529
+R23,HOTEL_001,Amit,5,Excellent hotel with prime location and good amenities. Tariff was 5200 INR. Check www.fakehotel.com,booking,2025-11-07T09:00:54.831529
+R24,HOTEL_001,Amit,2,"Food theek tha, nothing great",booking,2025-08-20T09:00:54.831529
+R25,HOTEL_001,Rahul,4,Gym and pool were well maintained. More details at http://spamlink.com,booking,2025-04-10T09:00:54.831529
+R26,HOTEL_001,Pooja,2,"Terrible hotel, bathroom smelled bad. Call me at 9876543210",booking,2025-08-20T09:00:54.831529
+R27,HOTEL_001,Rohit,5,Loved the breakfast buffet and staff behavior. Price is too high for this hotel,google,2026-02-08T09:00:54.831529
+R28,HOTEL_001,Ankit,1,AC was not working properly,booking,2025-02-26T09:00:54.831529
+R29,HOTEL_001,Arjun,4,"Amazing service, bathroom was spotless",internal,2025-11-28T09:00:54.831529
+R30,HOTEL_001,Nikhil,5,"Very comfortable rooms, will definitely visit again",internal,2025-06-08T09:00:54.831529
+R31,HOTEL_001,Vikas,3,Rooms were fine but service was slow,booking,2025-02-21T09:00:54.831529
+R32,HOTEL_001,Simran,5,Gym and pool were well maintained. Call me at 9876543210,google,2025-09-03T09:00:54.831529
+R33,HOTEL_001,Nikhil,4,Gym and pool were well maintained. Contact: demo@yahoo.com,internal,2025-04-29T09:00:54.831529
+R34,HOTEL_001,Ankit,5,Gym and pool were well maintained,booking,2025-10-02T09:00:54.831529
+R35,HOTEL_001,Rohit,3,"Okay experience, food was average",google,2025-07-05T09:00:54.831529
+R36,HOTEL_001,Neha,5,"Amazing service, bathroom was spotless. My number is 9123456789. Check www.fakehotel.com",booking,2025-10-09T09:00:54.831529
+R37,HOTEL_001,Karan,4,"Amazing service, bathroom was spotless",booking,2025-08-23T09:00:54.831529
+R38,HOTEL_001,Rahul,4,"Very comfortable rooms, will definitely visit again",booking,2025-10-06T09:00:54.831529
+R39,HOTEL_001,Arjun,3,Rooms were fine but service was slow. More details at http://spamlink.com,booking,2025-02-27T09:00:54.831529
+R40,HOTEL_001,Arjun,3,"Okay experience, food was average. I paid 6000 per night. Call me at 9876543210",booking,2026-02-08T09:00:54.831529
+R41,HOTEL_001,Neha,4,"Food theek tha, nothing great. Contact: demo@yahoo.com",google,2025-06-08T09:00:54.831529
+R42,HOTEL_001,Rahul,5,Loved the breakfast buffet and staff behavior. Price is too high for this hotel,internal,2025-04-23T09:00:54.831529
+R43,HOTEL_001,Sneha,3,"Food theek tha, nothing great. Price is too high for this hotel",google,2025-05-14T09:00:54.831529
+R44,HOTEL_001,Rahul,4,"Very comfortable rooms, will definitely visit again. Call me at 9876543210",internal,2025-04-16T09:00:54.831529
+R45,HOTEL_001,Pooja,3,"Average stay, decent location. Check www.fakehotel.com. Owner Mr Sharma was present",internal,2025-04-25T09:00:54.831529
+R46,HOTEL_001,Arjun,4,"Excellent hotel with prime location and good amenities. Worst service, staff is stupid",booking,2026-02-10T09:00:54.831529
+R47,HOTEL_001,Pooja,2,Location achi hai but noise zyada tha. Price is too high for this hotel,internal,2025-03-30T09:00:54.831529
+R48,HOTEL_001,Neha,3,Stay was acceptable for one night. Email me at test@gmail.com,google,2025-05-27T09:00:54.831529
+R49,HOTEL_001,Nikhil,1,AC was not working properly. Tariff was 5200 INR. Email me at test@gmail.com,internal,2025-07-10T09:00:54.831529
+R50,HOTEL_001,Sonal,1,"Bad experience, too much noise at night",booking,2025-04-02T09:00:54.831529
+R51,HOTEL_001,Neha,1,Poor maintenance and rude staff,internal,2025-05-02T09:00:54.831529
+R52,HOTEL_001,Sonal,1,Poor maintenance and rude staff. Cost was ₹4500. My number is 9123456789,internal,2025-12-05T09:00:54.831529
+R53,HOTEL_001,Neha,3,"Average stay, decent location. I paid 6000 per night. Check www.fakehotel.com",booking,2025-10-21T09:00:54.831529
+R54,HOTEL_001,Sneha,2,"AC was not working properly. Worst service, staff is stupid",booking,2025-04-25T09:00:54.831529
+R55,HOTEL_001,Sonal,2,"Not worth it, rooms were smelly. I paid 6000 per night. Email me at test@gmail.com. Owner Mr Sharma was present",internal,2025-03-09T09:00:54.831529
+R56,HOTEL_001,Karan,3,"Average stay, decent location",booking,2025-11-25T09:00:54.831529
+R57,HOTEL_001,Vikas,3,Stay was acceptable for one night. I paid 6000 per night,internal,2025-03-10T09:00:54.831529
+R58,HOTEL_001,Nikhil,5,"Very comfortable rooms, will definitely visit again",google,2025-04-10T09:00:54.831529
+R59,HOTEL_001,Nikhil,5,Loved the breakfast buffet and staff behavior. Price is too high for this hotel. Contact: demo@yahoo.com,google,2025-08-14T09:00:54.831529
+R60,HOTEL_001,Vikas,5,"Great stay, rooms were very clean and staff was polite. Manager Ravi handled the issue",booking,2025-09-16T09:00:54.831529
+R61,HOTEL_001,Karan,3,"Okay experience, food was average. Tariff was 5200 INR",internal,2025-07-15T09:00:54.831529
+R62,HOTEL_001,Sneha,5,Excellent hotel with prime location and good amenities,internal,2025-08-10T09:00:54.831529
+R63,HOTEL_001,Karan,3,"Hotel was okay, nothing special. My number is 9123456789",booking,2025-06-20T09:00:54.831529
+R64,HOTEL_001,Pooja,3,"Okay experience, food was average",google,2025-08-10T09:00:54.831529
+R65,HOTEL_001,Karan,4,Excellent hotel with prime location and good amenities,internal,2025-06-07T09:00:54.831529
+R66,HOTEL_001,Neha,5,Gym and pool were well maintained. Price is too high for this hotel,google,2025-12-12T09:00:54.831529
+R67,HOTEL_001,Vikas,5,"Amazing service, bathroom was spotless",google,2025-06-28T09:00:54.831529
+R68,HOTEL_001,Vikas,4,Location achi hai but noise zyada tha. My number is 9123456789. This hotel is shit,google,2025-07-24T09:00:54.831529
+R69,HOTEL_001,Priya,2,"Terrible hotel, bathroom smelled bad",booking,2025-08-06T09:00:54.831529
+R70,HOTEL_001,Pooja,4,Gym and pool were well maintained,internal,2025-09-29T09:00:54.831529
+R71,HOTEL_001,Sneha,4,Excellent hotel with prime location and good amenities,google,2025-07-03T09:00:54.831529
+R72,HOTEL_001,Arjun,5,Gym and pool were well maintained. Cost was ₹4500,booking,2026-01-29T09:00:54.831529
+R73,HOTEL_001,Rohit,5,Loved the breakfast buffet and staff behavior. Cost was ₹4500,google,2026-01-29T09:00:54.831529
+R74,HOTEL_001,Vikas,4,Gym and pool were well maintained,internal,2026-01-20T09:00:54.831529
+R75,HOTEL_001,Priya,3,"Hotel was okay, nothing special",booking,2026-01-17T09:00:54.831529
+R76,HOTEL_001,Simran,5,"Very comfortable rooms, will definitely visit again. My number is 9123456789. Contact: demo@yahoo.com",booking,2025-11-28T09:00:54.831529
+R77,HOTEL_001,Neha,4,"Very comfortable rooms, will definitely visit again",google,2025-05-31T09:00:54.831529
+R78,HOTEL_001,Arjun,3,"Food theek tha, nothing great",google,2025-06-13T09:00:54.831529
+R79,HOTEL_001,Vikas,3,"Average stay, decent location. Cost was ₹4500. Email me at test@gmail.com",booking,2025-06-04T09:00:54.831529
+R80,HOTEL_001,Amit,4,"Very comfortable rooms, will definitely visit again. Contact: demo@yahoo.com. Owner Mr Sharma was present",internal,2025-07-23T09:00:54.831529
+R81,HOTEL_001,Karan,3,Rooms were fine but service was slow. Tariff was 5200 INR,google,2025-11-23T09:00:54.831529
+R82,HOTEL_001,Ankit,4,"Food theek tha, nothing great",booking,2025-12-02T09:00:54.831529
+R83,HOTEL_001,Karan,1,"Bad experience, too much noise at night",booking,2025-10-21T09:00:54.831529
+R84,HOTEL_001,Rohit,4,Gym and pool were well maintained,google,2025-06-30T09:00:54.831529
+R85,HOTEL_001,Simran,4,Gym and pool were well maintained,internal,2026-02-16T09:00:54.831529
+R86,HOTEL_001,Nikhil,4,Excellent hotel with prime location and good amenities. Tariff was 5200 INR. Call me at 9876543210,internal,2025-06-07T09:00:54.831529
+R87,HOTEL_001,Sonal,2,"Bad experience, too much noise at night",internal,2025-08-09T09:00:54.831529
+R88,HOTEL_001,Sonal,4,"Very comfortable rooms, will definitely visit again",internal,2025-09-25T09:00:54.831529
+R89,HOTEL_001,Amit,4,"Food theek tha, nothing great. I paid 6000 per night",google,2026-02-07T09:00:54.831529
+R90,HOTEL_001,Priya,5,"Great stay, rooms were very clean and staff was polite. Price is too high for this hotel. My number is 9123456789",google,2025-06-17T09:00:54.831529
+R91,HOTEL_001,Vikas,4,Excellent hotel with prime location and good amenities,internal,2025-08-22T09:00:54.831529
+R92,HOTEL_001,Rahul,3,Rooms were fine but service was slow. Owner Mr Sharma was present,booking,2026-01-04T09:00:54.831529
+R93,HOTEL_001,Amit,2,"Worst stay ever, very dirty rooms. Tariff was 5200 INR",booking,2025-12-30T09:00:54.831529
+R94,HOTEL_001,Karan,3,"Hotel was okay, nothing special. Call me at 9876543210. Check www.fakehotel.com",booking,2025-10-06T09:00:54.831529
+R95,HOTEL_001,Vikas,5,"Very comfortable rooms, will definitely visit again",booking,2026-01-03T09:00:54.831529
+R96,HOTEL_001,Rohit,3,Rooms were fine but service was slow,booking,2025-08-28T09:00:54.831529
+R97,HOTEL_001,Sneha,4,"Very comfortable rooms, will definitely visit again. Price is too high for this hotel",internal,2026-01-25T09:00:54.831529
+R98,HOTEL_001,Rohit,4,Gym and pool were well maintained. Email me at test@gmail.com,booking,2025-06-08T09:00:54.831529
+R99,HOTEL_001,Vikas,4,Gym and pool were well maintained,booking,2025-09-10T09:00:54.831529
+R100,HOTEL_001,Amit,4,"Very comfortable rooms, will definitely visit again",internal,2026-02-13T09:00:54.831529
+R101,HOTEL_001,Simran,3,"Average stay, decent location. My number is 9123456789",booking,2025-06-04T09:00:54.831529
+R102,HOTEL_001,Amit,4,Gym and pool were well maintained. Call me at 9876543210. More details at http://spamlink.com. Owner Mr Sharma was present,google,2025-09-19T09:00:54.831529
+R103,HOTEL_001,Amit,2,"Bad experience, too much noise at night. Worst service, staff is stupid",google,2025-11-19T09:00:54.831529
+R104,HOTEL_001,Sonal,2,"Terrible hotel, bathroom smelled bad",booking,2025-08-25T09:00:54.831529
+R105,HOTEL_001,Karan,4,Excellent hotel with prime location and good amenities. This hotel is shit,internal,2025-03-01T09:00:54.831529
+R106,HOTEL_001,Simran,5,Excellent hotel with prime location and good amenities,google,2025-10-31T09:00:54.831529
+R107,HOTEL_001,Pooja,5,Gym and pool were well maintained,google,2025-10-03T09:00:54.831529
+R108,HOTEL_001,Pooja,3,"Okay experience, food was average. Check www.fakehotel.com",internal,2025-12-23T09:00:54.831529
+R109,HOTEL_001,Amit,4,"Great stay, rooms were very clean and staff was polite",booking,2025-09-12T09:00:54.831529
+R110,HOTEL_001,Vikas,2,"Terrible hotel, bathroom smelled bad. Worst service, staff is stupid",google,2025-12-29T09:00:54.831529
+R111,HOTEL_001,Vikas,1,AC was not working properly. Cost was ₹4500,internal,2026-02-12T09:00:54.831529
+R112,HOTEL_001,Ankit,4,Gym and pool were well maintained. Contact: demo@yahoo.com,internal,2025-03-23T09:00:54.831529
+R113,HOTEL_001,Amit,4,"Very comfortable rooms, will definitely visit again. My number is 9123456789",booking,2025-10-31T09:00:54.831529
+R114,HOTEL_001,Vikas,5,Loved the breakfast buffet and staff behavior. Check www.fakehotel.com,google,2026-01-21T09:00:54.831529
+R115,HOTEL_001,Arjun,3,Stay was acceptable for one night,internal,2026-01-01T09:00:54.831529
+R116,HOTEL_001,Rohit,4,"Amazing service, bathroom was spotless",google,2026-01-18T09:00:54.831529
+R117,HOTEL_001,Arjun,3,"Average stay, decent location",booking,2026-01-09T09:00:54.831529
+R118,HOTEL_001,Vikas,2,Room clean tha but staff thoda slow tha. Tariff was 5200 INR,internal,2025-06-13T09:00:54.831529
+R119,HOTEL_001,Sneha,4,Excellent hotel with prime location and good amenities. Contact: demo@yahoo.com,google,2025-06-07T09:00:54.831529
+R120,HOTEL_001,Rohit,5,"Amazing service, bathroom was spotless",booking,2025-08-25T09:00:54.831529
+R121,HOTEL_001,Ankit,3,"Hotel was okay, nothing special",google,2026-01-23T09:00:54.831529
+R122,HOTEL_001,Simran,2,"Not worth it, rooms were smelly. Call me at 9876543210",google,2025-07-30T09:00:54.831529
+R123,HOTEL_001,Arjun,4,Overall stay okay tha. Email me at test@gmail.com,booking,2026-02-18T09:00:54.831529
+R124,HOTEL_001,Arjun,4,Loved the breakfast buffet and staff behavior,google,2025-12-30T09:00:54.831529
+R125,HOTEL_001,Rahul,2,Room clean tha but staff thoda slow tha. Tariff was 5200 INR. Check www.fakehotel.com,google,2025-11-16T09:00:54.831529
+R126,HOTEL_001,Sneha,1,"Not worth it, rooms were smelly",booking,2025-05-06T09:00:54.831529
+R127,HOTEL_001,Nikhil,2,Poor maintenance and rude staff,google,2025-11-12T09:00:54.831529
+R128,HOTEL_001,Karan,3,"Hotel was okay, nothing special",google,2025-03-26T09:00:54.831529
+R129,HOTEL_001,Rohit,3,"Okay experience, food was average",internal,2025-10-07T09:00:54.831529
+R130,HOTEL_001,Karan,5,"Amazing service, bathroom was spotless. Call me at 9876543210",google,2025-05-31T09:00:54.831529
+R131,HOTEL_001,Nikhil,1,AC was not working properly,google,2025-08-07T09:00:54.831529
+R132,HOTEL_001,Rahul,2,Poor maintenance and rude staff. I paid 6000 per night. Manager Ravi handled the issue,internal,2025-07-25T09:00:54.831529
+R133,HOTEL_001,Ankit,2,"Worst stay ever, very dirty rooms",booking,2026-01-06T09:00:54.831529
+R134,HOTEL_001,Amit,4,"Great stay, rooms were very clean and staff was polite. Cost was ₹4500. Contact: demo@yahoo.com",internal,2025-08-14T09:00:54.831529
+R135,HOTEL_001,Karan,3,Rooms were fine but service was slow,booking,2026-02-15T09:00:54.831529
+R136,HOTEL_001,Karan,4,"Food theek tha, nothing great. Email me at test@gmail.com",google,2025-10-30T09:00:54.831529
+R137,HOTEL_001,Ankit,3,"Rooms were fine but service was slow. Cost was ₹4500. Manager Ravi handled the issue. Worst service, staff is stupid",google,2025-11-01T09:00:54.831529
+R138,HOTEL_001,Rahul,5,Gym and pool were well maintained. Contact: demo@yahoo.com,google,2025-09-02T09:00:54.831529
+R139,HOTEL_001,Neha,5,Gym and pool were well maintained,internal,2025-12-17T09:00:54.831529
+R140,HOTEL_001,Arjun,4,Loved the breakfast buffet and staff behavior. Tariff was 5200 INR. Call me at 9876543210,internal,2025-03-07T09:00:54.831529
+R141,HOTEL_001,Neha,3,Rooms were fine but service was slow. Call me at 9876543210,google,2025-08-30T09:00:54.831529
+R142,HOTEL_001,Rohit,2,"Food theek tha, nothing great. Cost was ₹4500",internal,2025-06-18T09:00:54.831529
+R143,HOTEL_001,Nikhil,2,"Terrible hotel, bathroom smelled bad. I paid 6000 per night. Call me at 9876543210. Worst service, staff is stupid",google,2026-02-13T09:00:54.831529
+R144,HOTEL_001,Priya,2,"Bad experience, too much noise at night. Check www.fakehotel.com",google,2025-05-16T09:00:54.831529
+R145,HOTEL_001,Ankit,2,"Not worth it, rooms were smelly. Price is too high for this hotel",internal,2026-01-22T09:00:54.831529
+R146,HOTEL_001,Vikas,4,"Amazing service, bathroom was spotless",internal,2025-12-23T09:00:54.831529
+R147,HOTEL_001,Karan,2,"Worst stay ever, very dirty rooms",booking,2026-02-10T09:00:54.831529
+R148,HOTEL_001,Neha,3,Rooms were fine but service was slow. Cost was ₹4500. This hotel is shit,booking,2025-11-25T09:00:54.831529
+R149,HOTEL_001,Rahul,3,"Hotel was okay, nothing special. Contact: demo@yahoo.com. Check www.fakehotel.com. This hotel is shit",internal,2026-01-08T09:00:54.831529
+R150,HOTEL_001,Rahul,3,"Okay experience, food was average. I paid 6000 per night",booking,2025-11-10T09:00:54.831529
+R151,HOTEL_001,Sonal,3,"Average stay, decent location. Price is too high for this hotel",internal,2025-12-10T09:00:54.831529
+R152,HOTEL_001,Rohit,3,Rooms were fine but service was slow. Cost was ₹4500,internal,2025-08-26T09:00:54.831529
+R153,HOTEL_001,Karan,5,"Very comfortable rooms, will definitely visit again. Tariff was 5200 INR",booking,2025-09-18T09:00:54.831529
+R154,HOTEL_001,Neha,2,"Bad experience, too much noise at night",internal,2025-10-18T09:00:54.831529
+R155,HOTEL_001,Pooja,2,"Worst stay ever, very dirty rooms",google,2025-03-19T09:00:54.831529
+R156,HOTEL_001,Sneha,2,"Worst stay ever, very dirty rooms",internal,2025-11-29T09:00:54.831529
+R157,HOTEL_001,Rahul,3,Stay was acceptable for one night. Contact: demo@yahoo.com,booking,2025-12-17T09:00:54.831529
+R158,HOTEL_001,Simran,4,"Very comfortable rooms, will definitely visit again. I paid 6000 per night",google,2025-10-20T09:00:54.831529
+R159,HOTEL_001,Pooja,2,"Bad experience, too much noise at night. Price is too high for this hotel. Call me at 9876543210",internal,2025-12-01T09:00:54.831529
+R160,HOTEL_001,Priya,5,Loved the breakfast buffet and staff behavior. Cost was ₹4500. Call me at 9876543210,internal,2025-10-14T09:00:54.831529
+R161,HOTEL_001,Rahul,4,"Amazing service, bathroom was spotless. Cost was ₹4500. My number is 9123456789",internal,2025-09-19T09:00:54.831529
+R162,HOTEL_001,Arjun,5,Gym and pool were well maintained. Call me at 9876543210,internal,2025-11-17T09:00:54.831529
+R163,HOTEL_001,Karan,3,Stay was acceptable for one night,internal,2025-09-12T09:00:54.831529
+R164,HOTEL_001,Ankit,4,Room clean tha but staff thoda slow tha,google,2025-11-08T09:00:54.831529
+R165,HOTEL_001,Karan,4,"Amazing service, bathroom was spotless. Tariff was 5200 INR",internal,2025-04-14T09:00:54.831529
+R166,HOTEL_001,Karan,3,"Average stay, decent location. Price is too high for this hotel. Call me at 9876543210",google,2025-04-25T09:00:54.831529
+R167,HOTEL_001,Rohit,3,"Average stay, decent location",google,2025-12-19T09:00:54.831529
+R168,HOTEL_001,Nikhil,3,Stay was acceptable for one night,booking,2025-08-30T09:00:54.831529
+R169,HOTEL_001,Amit,3,Stay was acceptable for one night. I paid 6000 per night,google,2025-07-21T09:00:54.831529
+R170,HOTEL_001,Pooja,5,Gym and pool were well maintained. Tariff was 5200 INR,google,2026-01-18T09:00:54.831529
+R171,HOTEL_001,Karan,3,"Average stay, decent location. I paid 6000 per night",booking,2025-07-06T09:00:54.831529
+R172,HOTEL_001,Pooja,4,Gym and pool were well maintained. Tariff was 5200 INR. Owner Mr Sharma was present,internal,2025-03-25T09:00:54.831529
+R173,HOTEL_001,Ankit,5,Gym and pool were well maintained,booking,2025-10-16T09:00:54.831529
+R174,HOTEL_001,Amit,3,"Average stay, decent location",google,2025-12-31T09:00:54.831529
+R175,HOTEL_001,Karan,3,"Okay experience, food was average. I paid 6000 per night",booking,2025-07-09T09:00:54.831529
+R176,HOTEL_001,Pooja,3,"Okay experience, food was average",booking,2025-07-12T09:00:54.831529
+R177,HOTEL_001,Neha,1,Poor maintenance and rude staff. Manager Ravi handled the issue,booking,2025-05-24T09:00:54.831529
+R178,HOTEL_001,Neha,2,"Worst stay ever, very dirty rooms. Worst service, staff is stupid",booking,2025-08-04T09:00:54.831529
+R179,HOTEL_001,Arjun,4,Gym and pool were well maintained. This hotel is shit,google,2025-07-01T09:00:54.831529
+R180,HOTEL_001,Vikas,3,Stay was acceptable for one night. Manager Ravi handled the issue,booking,2025-08-17T09:00:54.831529
+R181,HOTEL_001,Rohit,3,"Food theek tha, nothing great. Tariff was 5200 INR",internal,2025-02-26T09:00:54.831529
+R182,HOTEL_001,Sneha,5,"Amazing service, bathroom was spotless. This hotel is shit",google,2025-07-21T09:00:54.831529
+R183,HOTEL_001,Priya,4,Gym and pool were well maintained. Tariff was 5200 INR,internal,2025-09-25T09:00:54.831529
+R184,HOTEL_001,Sonal,4,"Great stay, rooms were very clean and staff was polite. Price is too high for this hotel",google,2025-07-14T09:00:54.831529
+R185,HOTEL_001,Rahul,3,"Okay experience, food was average",internal,2026-01-05T09:00:54.831529
+R186,HOTEL_001,Neha,4,Overall stay okay tha,booking,2026-02-03T09:00:54.831529
+R187,HOTEL_001,Sonal,5,Gym and pool were well maintained,google,2025-09-16T09:00:54.831529
+R188,HOTEL_001,Simran,3,"Hotel was okay, nothing special",google,2025-07-07T09:00:54.831529
+R189,HOTEL_001,Rahul,3,Stay was acceptable for one night,google,2025-09-09T09:00:54.831529
+R190,HOTEL_001,Priya,1,"Worst stay ever, very dirty rooms",booking,2025-04-30T09:00:54.831529
+R191,HOTEL_001,Rohit,2,Poor maintenance and rude staff. More details at http://spamlink.com,internal,2025-06-01T09:00:54.831529
+R192,HOTEL_001,Amit,4,"Food theek tha, nothing great",internal,2025-10-25T09:00:54.831529
+R193,HOTEL_001,Arjun,2,AC was not working properly,booking,2025-02-24T09:00:54.831529
+R194,HOTEL_001,Ankit,5,Gym and pool were well maintained. Cost was ₹4500,booking,2025-06-12T09:00:54.831529
+R195,HOTEL_001,Pooja,3,Stay was acceptable for one night,google,2025-03-26T09:00:54.831529
+R196,HOTEL_001,Priya,5,Excellent hotel with prime location and good amenities. My number is 9123456789,internal,2026-01-04T09:00:54.831529
+R197,HOTEL_001,Ankit,3,Overall stay okay tha. My number is 9123456789. This hotel is shit,google,2025-03-24T09:00:54.831529
+R198,HOTEL_001,Nikhil,5,"Very comfortable rooms, will definitely visit again. Manager Ravi handled the issue",booking,2025-05-03T09:00:54.831529
+R199,HOTEL_001,Sneha,3,Rooms were fine but service was slow. Owner Mr Sharma was present,google,2025-09-06T09:00:54.831529
+R200,HOTEL_001,Neha,5,"Great stay, rooms were very clean and staff was polite",booking,2025-06-22T09:00:54.831529
+R201,HOTEL_001,Rahul,3,"Hotel was okay, nothing special",internal,2025-03-07T09:00:54.831529
+R202,HOTEL_001,Pooja,4,Location achi hai but noise zyada tha,booking,2025-05-27T09:00:54.831529
+R203,HOTEL_001,Sonal,3,"Average stay, decent location",booking,2025-02-19T09:00:54.831529
+R204,HOTEL_001,Ankit,5,Loved the breakfast buffet and staff behavior,booking,2025-08-29T09:00:54.831529
+R205,HOTEL_001,Pooja,4,Loved the breakfast buffet and staff behavior. Contact: demo@yahoo.com,google,2025-10-08T09:00:54.831529
+R206,HOTEL_001,Karan,4,"Very comfortable rooms, will definitely visit again. More details at http://spamlink.com",booking,2025-09-11T09:00:54.831529
+R207,HOTEL_001,Pooja,4,"Very comfortable rooms, will definitely visit again",internal,2025-05-13T09:00:54.831529
+R208,HOTEL_001,Simran,4,"Food theek tha, nothing great. Cost was ₹4500",google,2025-10-03T09:00:54.831529
+R209,HOTEL_001,Rahul,2,"Worst stay ever, very dirty rooms. This hotel is shit",google,2025-05-29T09:00:54.831529
+R210,HOTEL_001,Karan,3,"Okay experience, food was average. Cost was ₹4500",booking,2025-07-25T09:00:54.831529
+R211,HOTEL_001,Amit,1,"Terrible hotel, bathroom smelled bad",booking,2025-06-08T09:00:54.831529
+R212,HOTEL_001,Rohit,2,Poor maintenance and rude staff. Cost was ₹4500,google,2025-08-11T09:00:54.831529
+R213,HOTEL_001,Amit,3,Stay was acceptable for one night. Price is too high for this hotel,internal,2025-12-24T09:00:54.831529
+R214,HOTEL_001,Karan,4,Loved the breakfast buffet and staff behavior,google,2026-02-03T09:00:54.831529
+R215,HOTEL_001,Pooja,3,"Hotel was okay, nothing special",booking,2025-04-11T09:00:54.831529
+R216,HOTEL_001,Arjun,2,"Bad experience, too much noise at night. Price is too high for this hotel",booking,2025-03-04T09:00:54.831529
+R217,HOTEL_001,Vikas,5,"Amazing service, bathroom was spotless. Call me at 9876543210",internal,2025-05-12T09:00:54.831529
+R218,HOTEL_001,Ankit,3,"Hotel was okay, nothing special. My number is 9123456789",booking,2026-02-17T09:00:54.831529
+R219,HOTEL_001,Vikas,3,Stay was acceptable for one night. Cost was ₹4500,booking,2025-09-23T09:00:54.831529
+R220,HOTEL_001,Sonal,1,"Bad experience, too much noise at night. Cost was ₹4500",booking,2025-10-05T09:00:54.831529
+R221,HOTEL_001,Karan,4,"Very comfortable rooms, will definitely visit again",google,2026-01-11T09:00:54.831529
+R222,HOTEL_001,Priya,2,"Not worth it, rooms were smelly",internal,2025-10-08T09:00:54.831529
+R223,HOTEL_001,Nikhil,4,Excellent hotel with prime location and good amenities. Cost was ₹4500,internal,2025-11-06T09:00:54.831529
+R224,HOTEL_001,Nikhil,4,"Very comfortable rooms, will definitely visit again. My number is 9123456789",internal,2025-02-23T09:00:54.831529
+R225,HOTEL_001,Nikhil,3,Rooms were fine but service was slow. Cost was ₹4500. My number is 9123456789,internal,2025-03-18T09:00:54.831529
+R226,HOTEL_001,Sneha,3,"Stay was acceptable for one night. Worst service, staff is stupid",booking,2025-10-18T09:00:54.831529
+R227,HOTEL_001,Neha,2,"Not worth it, rooms were smelly. Owner Mr Sharma was present",booking,2026-01-04T09:00:54.831529
+R228,HOTEL_001,Simran,4,"Amazing service, bathroom was spotless. I paid 6000 per night",google,2025-12-22T09:00:54.831529
+R229,HOTEL_001,Nikhil,2,"Not worth it, rooms were smelly",booking,2025-06-18T09:00:54.831529
+R230,HOTEL_001,Simran,4,"Very comfortable rooms, will definitely visit again",internal,2025-10-09T09:00:54.831529
+R231,HOTEL_001,Ankit,2,"Food theek tha, nothing great",booking,2025-03-02T09:00:54.831529
+R232,HOTEL_001,Pooja,3,Stay was acceptable for one night. I paid 6000 per night,google,2025-05-18T09:00:54.831529
+R233,HOTEL_001,Simran,1,"Bad experience, too much noise at night. Cost was ₹4500",internal,2025-04-22T09:00:54.831529
+R234,HOTEL_001,Arjun,2,"Terrible hotel, bathroom smelled bad",booking,2025-09-24T09:00:54.831529
+R235,HOTEL_001,Karan,2,"Worst stay ever, very dirty rooms",google,2026-02-08T09:00:54.831529
+R236,HOTEL_001,Nikhil,4,Excellent hotel with prime location and good amenities. Call me at 9876543210,booking,2025-12-04T09:00:54.831529
+R237,HOTEL_001,Vikas,3,"Hotel was okay, nothing special. Call me at 9876543210",booking,2025-09-17T09:00:54.831529
+R238,HOTEL_001,Rahul,3,Stay was acceptable for one night,internal,2026-02-09T09:00:54.831529
+R239,HOTEL_001,Sonal,3,"Hotel was okay, nothing special",internal,2025-11-16T09:00:54.831529
+R240,HOTEL_001,Pooja,5,Loved the breakfast buffet and staff behavior. Manager Ravi handled the issue,booking,2025-05-31T09:00:54.831529
+R241,HOTEL_001,Arjun,3,Rooms were fine but service was slow,internal,2025-08-25T09:00:54.831529
+R242,HOTEL_001,Sonal,1,"Worst stay ever, very dirty rooms",booking,2025-07-28T09:00:54.831529
+R243,HOTEL_001,Simran,3,"Okay experience, food was average. Contact: demo@yahoo.com",google,2026-01-01T09:00:54.831529
+R244,HOTEL_001,Karan,2,Overall stay okay tha. Check www.fakehotel.com,google,2025-06-06T09:00:54.831529
+R245,HOTEL_001,Neha,1,"Bad experience, too much noise at night. Price is too high for this hotel",internal,2025-05-12T09:00:54.831529
+R246,HOTEL_001,Rahul,3,Rooms were fine but service was slow. More details at http://spamlink.com,internal,2025-10-06T09:00:54.831529
+R247,HOTEL_001,Priya,3,"Okay experience, food was average. My number is 9123456789",booking,2026-01-29T09:00:54.831529
+R248,HOTEL_001,Nikhil,4,"Great stay, rooms were very clean and staff was polite. Price is too high for this hotel. Owner Mr Sharma was present. This hotel is shit",google,2025-04-10T09:00:54.831529
+R249,HOTEL_001,Sneha,4,"Very comfortable rooms, will definitely visit again",booking,2025-04-24T09:00:54.831529
+R250,HOTEL_001,Ankit,3,"Average stay, decent location",google,2025-10-20T09:00:54.831529
+R251,HOTEL_001,Arjun,3,"Average stay, decent location. Worst service, staff is stupid",google,2025-07-14T09:00:54.831529
+R252,HOTEL_001,Rohit,4,"Amazing service, bathroom was spotless",google,2025-12-28T09:00:54.831529
+R253,HOTEL_001,Nikhil,4,"Amazing service, bathroom was spotless",booking,2025-12-03T09:00:54.831529
+R254,HOTEL_001,Rohit,3,"Okay experience, food was average. Call me at 9876543210",internal,2025-12-27T09:00:54.831529
+R255,HOTEL_001,Karan,3,Rooms were fine but service was slow,internal,2025-05-21T09:00:54.831529
+R256,HOTEL_001,Priya,1,"Not worth it, rooms were smelly. My number is 9123456789. Owner Mr Sharma was present",internal,2026-02-04T09:00:54.831529
+R257,HOTEL_001,Amit,3,"Okay experience, food was average. Cost was ₹4500",google,2025-11-05T09:00:54.831529
+R258,HOTEL_001,Karan,3,"Food theek tha, nothing great",booking,2025-10-04T09:00:54.831529
+R259,HOTEL_001,Neha,3,Rooms were fine but service was slow. More details at http://spamlink.com. Manager Ravi handled the issue,google,2025-08-30T09:00:54.831529
+R260,HOTEL_001,Rohit,2,"Worst stay ever, very dirty rooms",google,2025-08-22T09:00:54.831529
+R261,HOTEL_001,Rahul,2,Poor maintenance and rude staff. My number is 9123456789. Email me at test@gmail.com,booking,2025-03-15T09:00:54.831529
+R262,HOTEL_001,Rahul,5,Excellent hotel with prime location and good amenities. My number is 9123456789. Check www.fakehotel.com,booking,2025-10-30T09:00:54.831529
+R263,HOTEL_001,Neha,2,AC was not working properly. Owner Mr Sharma was present,google,2025-12-05T09:00:54.831529
+R264,HOTEL_001,Ankit,5,"Very comfortable rooms, will definitely visit again. Call me at 9876543210",internal,2026-01-01T09:00:54.831529
+R265,HOTEL_001,Neha,5,Loved the breakfast buffet and staff behavior. I paid 6000 per night,booking,2025-07-29T09:00:54.831529
+R266,HOTEL_001,Priya,4,Excellent hotel with prime location and good amenities,internal,2025-08-29T09:00:54.831529
+R267,HOTEL_001,Ankit,2,"Terrible hotel, bathroom smelled bad. Tariff was 5200 INR",booking,2026-01-23T09:00:54.831529
+R268,HOTEL_001,Rahul,2,"Bad experience, too much noise at night. Cost was ₹4500. Owner Mr Sharma was present",internal,2025-10-14T09:00:54.831529
+R269,HOTEL_001,Neha,3,Stay was acceptable for one night. Check www.fakehotel.com,google,2025-12-18T09:00:54.831529
+R270,HOTEL_001,Neha,3,"Average stay, decent location. Call me at 9876543210",booking,2025-12-21T09:00:54.831529
+R271,HOTEL_001,Karan,3,Rooms were fine but service was slow. Contact: demo@yahoo.com,booking,2026-02-12T09:00:54.831529
+R272,HOTEL_001,Pooja,2,"Terrible hotel, bathroom smelled bad",google,2025-03-12T09:00:54.831529
+R273,HOTEL_001,Nikhil,1,"Worst stay ever, very dirty rooms. Manager Ravi handled the issue",internal,2025-12-06T09:00:54.831529
+R274,HOTEL_001,Simran,4,Excellent hotel with prime location and good amenities,google,2025-06-03T09:00:54.831529
+R275,HOTEL_001,Vikas,3,"Okay experience, food was average. Check www.fakehotel.com",booking,2025-05-13T09:00:54.831529
+R276,HOTEL_001,Priya,3,"Okay experience, food was average. Tariff was 5200 INR",booking,2025-11-29T09:00:54.831529
+R277,HOTEL_001,Neha,4,Excellent hotel with prime location and good amenities. Cost was ₹4500,booking,2025-03-11T09:00:54.833537
+R278,HOTEL_001,Simran,4,Loved the breakfast buffet and staff behavior. Tariff was 5200 INR,internal,2025-09-06T09:00:54.833537
+R279,HOTEL_001,Rohit,3,Stay was acceptable for one night. Cost was ₹4500,internal,2025-09-15T09:00:54.833537
+R280,HOTEL_001,Simran,2,"Bad experience, too much noise at night. Cost was ₹4500. Contact: demo@yahoo.com",google,2025-04-16T09:00:54.833537
+R281,HOTEL_001,Vikas,5,"Very comfortable rooms, will definitely visit again. Call me at 9876543210",internal,2025-11-30T09:00:54.833537
+R282,HOTEL_001,Priya,3,"Average stay, decent location. Check www.fakehotel.com",booking,2025-10-30T09:00:54.833537
+R283,HOTEL_001,Pooja,4,Gym and pool were well maintained,google,2025-04-01T09:00:54.833537
+R284,HOTEL_001,Priya,3,Room clean tha but staff thoda slow tha,google,2025-05-22T09:00:54.833537
+R285,HOTEL_001,Rahul,4,Gym and pool were well maintained. Tariff was 5200 INR,internal,2025-07-19T09:00:54.833537
+R286,HOTEL_001,Pooja,1,"Bad experience, too much noise at night. Check www.fakehotel.com",booking,2025-04-24T09:00:54.833537
+R287,HOTEL_001,Amit,3,"Okay experience, food was average",google,2025-09-08T09:00:54.833537
+R288,HOTEL_001,Nikhil,5,"Great stay, rooms were very clean and staff was polite. Tariff was 5200 INR. More details at http://spamlink.com",internal,2025-05-18T09:00:54.833537
+R289,HOTEL_001,Sonal,3,"Average stay, decent location. Contact: demo@yahoo.com",google,2025-09-26T09:00:54.833537
+R290,HOTEL_001,Sonal,2,Location achi hai but noise zyada tha. Call me at 9876543210,booking,2025-08-04T09:00:54.833537
+R291,HOTEL_001,Sonal,5,"Very comfortable rooms, will definitely visit again",internal,2025-03-10T09:00:54.833537
+R292,HOTEL_001,Rohit,5,Loved the breakfast buffet and staff behavior,google,2025-07-19T09:00:54.833537
+R293,HOTEL_001,Sneha,5,"Amazing service, bathroom was spotless. Price is too high for this hotel",booking,2025-04-21T09:00:54.833537
+R294,HOTEL_001,Neha,3,"Hotel was okay, nothing special",booking,2025-04-09T09:00:54.833537
+R295,HOTEL_001,Pooja,3,Room clean tha but staff thoda slow tha. I paid 6000 per night. Contact: demo@yahoo.com,booking,2025-10-12T09:00:54.833537
+R296,HOTEL_001,Sneha,4,Gym and pool were well maintained. Cost was ₹4500,internal,2025-06-17T09:00:54.833537
+R297,HOTEL_001,Arjun,3,"Average stay, decent location. Email me at test@gmail.com",google,2026-02-18T09:00:54.833537
+R298,HOTEL_001,Karan,3,"Hotel was okay, nothing special. Price is too high for this hotel. Email me at test@gmail.com",google,2025-11-04T09:00:54.833537
+R299,HOTEL_001,Vikas,4,Loved the breakfast buffet and staff behavior,booking,2026-01-23T09:00:54.833537
+R300,HOTEL_001,Sonal,4,"Very comfortable rooms, will definitely visit again",internal,2025-09-19T09:00:54.833537
+R301,HOTEL_001,Sneha,1,Poor maintenance and rude staff. Email me at test@gmail.com,google,2025-10-01T09:00:54.833537
+R302,HOTEL_001,Vikas,3,Location achi hai but noise zyada tha,google,2025-08-22T09:00:54.833537
+R303,HOTEL_001,Karan,4,Overall stay okay tha,booking,2025-03-31T09:00:54.833537
+R304,HOTEL_001,Rohit,2,AC was not working properly,internal,2025-02-28T09:00:54.833537
+R305,HOTEL_001,Neha,2,"Worst stay ever, very dirty rooms. More details at http://spamlink.com",internal,2025-03-04T09:00:54.833537
+R306,HOTEL_001,Neha,1,"Not worth it, rooms were smelly. Contact: demo@yahoo.com",booking,2025-07-28T09:00:54.833537
+R307,HOTEL_001,Simran,1,"Worst stay ever, very dirty rooms",internal,2025-07-09T09:00:54.833537
+R308,HOTEL_001,Neha,4,"Great stay, rooms were very clean and staff was polite. Price is too high for this hotel",google,2025-06-10T09:00:54.833537
+R309,HOTEL_001,Amit,1,"Not worth it, rooms were smelly",google,2026-01-18T09:00:54.833537
+R310,HOTEL_001,Rahul,2,"Worst stay ever, very dirty rooms",booking,2025-05-11T09:00:54.833537
+R311,HOTEL_001,Rohit,1,"Worst stay ever, very dirty rooms",booking,2026-01-27T09:00:54.833537
+R312,HOTEL_001,Rohit,3,Stay was acceptable for one night,internal,2025-05-26T09:00:54.833537
+R313,HOTEL_001,Arjun,3,"Hotel was okay, nothing special",google,2026-01-06T09:00:54.833537
+R314,HOTEL_001,Karan,4,Gym and pool were well maintained. Price is too high for this hotel,internal,2025-06-05T09:00:54.833537
+R315,HOTEL_001,Sonal,1,"Not worth it, rooms were smelly. Check www.fakehotel.com",internal,2025-11-08T09:00:54.833537
+R316,HOTEL_001,Karan,3,"Room clean tha but staff thoda slow tha. Price is too high for this hotel. Worst service, staff is stupid",booking,2025-06-19T09:00:54.833537
+R317,HOTEL_001,Rahul,2,"Worst stay ever, very dirty rooms",internal,2025-09-09T09:00:54.833537
+R318,HOTEL_001,Karan,2,"Terrible hotel, bathroom smelled bad. I paid 6000 per night",booking,2025-10-11T09:00:54.833537
+R319,HOTEL_001,Nikhil,3,Stay was acceptable for one night. Cost was ₹4500,internal,2025-10-27T09:00:54.833537
+R320,HOTEL_001,Rahul,4,"Amazing service, bathroom was spotless. I paid 6000 per night. Owner Mr Sharma was present",google,2025-04-29T09:00:54.833537
+R321,HOTEL_001,Sneha,5,"Great stay, rooms were very clean and staff was polite. Owner Mr Sharma was present",booking,2025-08-15T09:00:54.833537
+R322,HOTEL_001,Vikas,4,"Room clean tha but staff thoda slow tha. Cost was ₹4500. Worst service, staff is stupid",booking,2025-08-20T09:00:54.833537
+R323,HOTEL_001,Amit,4,"Great stay, rooms were very clean and staff was polite",google,2025-06-13T09:00:54.833537
+R324,HOTEL_001,Arjun,1,"Worst stay ever, very dirty rooms. Worst service, staff is stupid",internal,2025-03-01T09:00:54.833537
+R325,HOTEL_001,Rahul,1,"Bad experience, too much noise at night",booking,2026-01-27T09:00:54.833537
+R326,HOTEL_001,Karan,2,AC was not working properly,google,2025-06-23T09:00:54.833537
+R327,HOTEL_001,Priya,3,Stay was acceptable for one night. I paid 6000 per night,booking,2025-12-18T09:00:54.833537
+R328,HOTEL_001,Amit,3,"Average stay, decent location. Owner Mr Sharma was present. This hotel is shit",internal,2026-02-07T09:00:54.833537
+R329,HOTEL_001,Nikhil,5,Loved the breakfast buffet and staff behavior. I paid 6000 per night,booking,2025-10-15T09:00:54.833537
+R330,HOTEL_001,Arjun,2,"Bad experience, too much noise at night. Price is too high for this hotel. Check www.fakehotel.com",google,2025-11-02T09:00:54.833537
+R331,HOTEL_001,Sneha,3,"Average stay, decent location",booking,2025-07-03T09:00:54.833537
+R332,HOTEL_001,Rohit,1,"Bad experience, too much noise at night. Call me at 9876543210",booking,2025-09-08T09:00:54.833537
+R333,HOTEL_001,Priya,4,"Amazing service, bathroom was spotless",google,2025-08-15T09:00:54.833537
+R334,HOTEL_001,Nikhil,3,Stay was acceptable for one night. Owner Mr Sharma was present,booking,2025-03-09T09:00:54.833537
+R335,HOTEL_001,Pooja,4,Loved the breakfast buffet and staff behavior. Price is too high for this hotel,internal,2025-08-29T09:00:54.833537
+R336,HOTEL_001,Neha,3,"Okay experience, food was average",booking,2025-04-10T09:00:54.833537
+R337,HOTEL_001,Amit,3,Stay was acceptable for one night. Check www.fakehotel.com,internal,2025-11-09T09:00:54.833537
+R338,HOTEL_001,Rohit,3,Stay was acceptable for one night. Tariff was 5200 INR,internal,2025-05-16T09:00:54.833537
+R339,HOTEL_001,Rohit,4,Loved the breakfast buffet and staff behavior. Price is too high for this hotel. My number is 9123456789,booking,2025-12-10T09:00:54.833537
+R340,HOTEL_001,Arjun,3,Stay was acceptable for one night. Price is too high for this hotel,booking,2025-12-21T09:00:54.833537
+R341,HOTEL_001,Arjun,3,Rooms were fine but service was slow. I paid 6000 per night,booking,2025-09-15T09:00:54.833537
+R342,HOTEL_001,Ankit,5,"Amazing service, bathroom was spotless. Manager Ravi handled the issue",internal,2025-05-23T09:00:54.833537
+R343,HOTEL_001,Arjun,3,"Hotel was okay, nothing special. Email me at test@gmail.com",google,2026-01-18T09:00:54.833537
+R344,HOTEL_001,Arjun,1,"Not worth it, rooms were smelly. Tariff was 5200 INR. Check www.fakehotel.com",google,2025-06-08T09:00:54.833537
+R345,HOTEL_001,Rahul,2,Poor maintenance and rude staff. Cost was ₹4500,internal,2025-07-16T09:00:54.833537
+R346,HOTEL_001,Arjun,1,"Not worth it, rooms were smelly. Cost was ₹4500",google,2026-02-10T09:00:54.833537
+R347,HOTEL_001,Nikhil,4,Excellent hotel with prime location and good amenities,internal,2026-01-05T09:00:54.833537
+R348,HOTEL_001,Sonal,3,Location achi hai but noise zyada tha,google,2025-04-18T09:00:54.833537
+R349,HOTEL_001,Karan,2,"Terrible hotel, bathroom smelled bad",google,2025-12-17T09:00:54.833537
+R350,HOTEL_001,Arjun,3,"Okay experience, food was average",booking,2025-04-06T09:00:54.833537
+R351,HOTEL_001,Ankit,3,"Hotel was okay, nothing special. Manager Ravi handled the issue",booking,2025-07-27T09:00:54.833537
+R352,HOTEL_001,Simran,3,Rooms were fine but service was slow. I paid 6000 per night. My number is 9123456789,internal,2025-11-12T09:00:54.833537
+R353,HOTEL_001,Neha,3,Rooms were fine but service was slow,google,2025-04-30T09:00:54.833537
+R354,HOTEL_001,Rahul,4,Gym and pool were well maintained. Call me at 9876543210. Manager Ravi handled the issue,internal,2026-01-27T09:00:54.833537
+R355,HOTEL_001,Rohit,3,Stay was acceptable for one night. Owner Mr Sharma was present,internal,2025-11-21T09:00:54.833537
+R356,HOTEL_001,Rahul,4,"Amazing service, bathroom was spotless. This hotel is shit",internal,2025-03-31T09:00:54.833537
+R357,HOTEL_001,Pooja,2,Overall stay okay tha. Tariff was 5200 INR. More details at http://spamlink.com,google,2026-01-13T09:00:54.833537
+R358,HOTEL_001,Sonal,2,"Bad experience, too much noise at night. Email me at test@gmail.com",internal,2025-02-22T09:00:54.833537
+R359,HOTEL_001,Karan,3,Rooms were fine but service was slow. Call me at 9876543210,google,2025-09-15T09:00:54.833537
+R360,HOTEL_001,Pooja,4,"Very comfortable rooms, will definitely visit again",google,2025-11-29T09:00:54.833537
+R361,HOTEL_001,Sneha,2,"Terrible hotel, bathroom smelled bad. Contact: demo@yahoo.com",google,2025-04-25T09:00:54.833537
+R362,HOTEL_001,Karan,1,"Worst stay ever, very dirty rooms. Cost was ₹4500. This hotel is shit",booking,2025-05-21T09:00:54.833537
+R363,HOTEL_001,Amit,3,Stay was acceptable for one night. Manager Ravi handled the issue,booking,2025-11-14T09:00:54.833537
+R364,HOTEL_001,Simran,5,Gym and pool were well maintained,google,2026-01-16T09:00:54.833537
+R365,HOTEL_001,Pooja,5,Excellent hotel with prime location and good amenities. Tariff was 5200 INR,internal,2025-04-01T09:00:54.833537
+R366,HOTEL_001,Arjun,1,"Bad experience, too much noise at night. Manager Ravi handled the issue",google,2025-08-10T09:00:54.833537
+R367,HOTEL_001,Neha,2,Poor maintenance and rude staff,google,2025-10-25T09:00:54.833537
+R368,HOTEL_001,Amit,4,Gym and pool were well maintained,google,2025-05-29T09:00:54.833537
+R369,HOTEL_001,Sonal,3,"Hotel was okay, nothing special",internal,2025-04-25T09:00:54.833537
+R370,HOTEL_001,Rohit,3,Stay was acceptable for one night. I paid 6000 per night,booking,2025-05-16T09:00:54.833537
+R371,HOTEL_001,Simran,3,"Average stay, decent location",internal,2025-12-14T09:00:54.833537
+R372,HOTEL_001,Simran,4,Location achi hai but noise zyada tha. Price is too high for this hotel,internal,2025-08-02T09:00:54.833537
+R373,HOTEL_001,Neha,2,"Terrible hotel, bathroom smelled bad",google,2025-09-12T09:00:54.833537
+R374,HOTEL_001,Amit,3,Location achi hai but noise zyada tha. Tariff was 5200 INR,internal,2025-10-24T09:00:54.833537
+R375,HOTEL_001,Pooja,5,"Amazing service, bathroom was spotless. Tariff was 5200 INR",google,2025-08-31T09:00:54.833537
+R376,HOTEL_001,Priya,1,"Bad experience, too much noise at night. I paid 6000 per night. My number is 9123456789. Check www.fakehotel.com. Manager Ravi handled the issue",booking,2025-07-25T09:00:54.833537
+R377,HOTEL_001,Sonal,3,"Okay experience, food was average. I paid 6000 per night. More details at http://spamlink.com",booking,2025-05-23T09:00:54.833537
+R378,HOTEL_001,Rahul,4,"Amazing service, bathroom was spotless",google,2025-06-21T09:00:54.833537
+R379,HOTEL_001,Vikas,2,"Food theek tha, nothing great. My number is 9123456789. Email me at test@gmail.com",internal,2025-07-12T09:00:54.833537
+R380,HOTEL_001,Amit,3,Stay was acceptable for one night,internal,2025-08-23T09:00:54.833537
+R381,HOTEL_001,Priya,3,Stay was acceptable for one night,booking,2025-06-02T09:00:54.833537
+R382,HOTEL_001,Sonal,1,"Terrible hotel, bathroom smelled bad. Cost was ₹4500",internal,2026-01-08T09:00:54.833537
+R383,HOTEL_001,Amit,4,"Amazing service, bathroom was spotless",booking,2026-02-03T09:00:54.833537
+R384,HOTEL_001,Sneha,3,"Hotel was okay, nothing special",google,2025-11-30T09:00:54.833537
+R385,HOTEL_001,Rohit,2,AC was not working properly,google,2025-11-01T09:00:54.833537
+R386,HOTEL_001,Ankit,1,"Bad experience, too much noise at night. I paid 6000 per night",internal,2025-04-24T09:00:54.833537
+R387,HOTEL_001,Simran,4,"Amazing service, bathroom was spotless. More details at http://spamlink.com",booking,2025-02-25T09:00:54.833537
+R388,HOTEL_001,Ankit,5,"Amazing service, bathroom was spotless. Cost was ₹4500",google,2025-12-14T09:00:54.833537
+R389,HOTEL_001,Rohit,5,Loved the breakfast buffet and staff behavior. I paid 6000 per night,internal,2025-06-23T09:00:54.833537
+R390,HOTEL_001,Rahul,3,"Hotel was okay, nothing special. I paid 6000 per night. Manager Ravi handled the issue",internal,2025-12-16T09:00:54.833537
+R391,HOTEL_001,Rohit,3,"Okay experience, food was average",google,2025-04-29T09:00:54.833537
+R392,HOTEL_001,Vikas,4,Gym and pool were well maintained,internal,2025-09-01T09:00:54.833537
+R393,HOTEL_001,Pooja,4,Excellent hotel with prime location and good amenities,internal,2025-12-25T09:00:54.833537
+R394,HOTEL_001,Sonal,1,"Worst stay ever, very dirty rooms",booking,2025-12-07T09:00:54.833537
+R395,HOTEL_001,Priya,2,"Worst stay ever, very dirty rooms",google,2026-01-28T09:00:54.833537
+R396,HOTEL_001,Nikhil,1,"Not worth it, rooms were smelly",booking,2026-01-27T09:00:54.833537
+R397,HOTEL_001,Amit,3,"Food theek tha, nothing great. This hotel is shit",booking,2025-08-28T09:00:54.833537
+R398,HOTEL_001,Nikhil,4,Gym and pool were well maintained. My number is 9123456789. Manager Ravi handled the issue,booking,2025-09-10T09:00:54.833537
+R399,HOTEL_001,Ankit,3,"Average stay, decent location. Worst service, staff is stupid",booking,2025-05-17T09:00:54.833537
+R400,HOTEL_001,Karan,3,Rooms were fine but service was slow,booking,2025-03-27T09:00:54.833537
+R401,HOTEL_001,Karan,3,"Food theek tha, nothing great. Price is too high for this hotel. Call me at 9876543210. Manager Ravi handled the issue",google,2025-05-01T09:00:54.833537
+R402,HOTEL_001,Karan,4,"Amazing service, bathroom was spotless",google,2025-12-17T09:00:54.833537
+R403,HOTEL_001,Karan,4,Gym and pool were well maintained. Check www.fakehotel.com,booking,2025-08-13T09:00:54.833537
+R404,HOTEL_001,Ankit,3,"Average stay, decent location. I paid 6000 per night",google,2025-12-25T09:00:54.833537
+R405,HOTEL_001,Karan,3,Stay was acceptable for one night,booking,2026-02-04T09:00:54.833537
+R406,HOTEL_001,Sneha,3,"Hotel was okay, nothing special",booking,2026-01-10T09:00:54.833537
+R407,HOTEL_001,Rohit,3,"Hotel was okay, nothing special. I paid 6000 per night",booking,2025-02-28T09:00:54.833537
+R408,HOTEL_001,Sonal,2,Poor maintenance and rude staff. Cost was ₹4500,internal,2025-04-22T09:00:54.833537
+R409,HOTEL_001,Amit,1,"Terrible hotel, bathroom smelled bad",internal,2025-11-01T09:00:54.833537
+R410,HOTEL_001,Rahul,5,"Amazing service, bathroom was spotless. Cost was ₹4500. More details at http://spamlink.com",google,2025-08-04T09:00:54.833537
+R411,HOTEL_001,Neha,5,"Very comfortable rooms, will definitely visit again. Call me at 9876543210",google,2025-06-13T09:00:54.833537
+R412,HOTEL_001,Neha,1,"Bad experience, too much noise at night",internal,2025-04-12T09:00:54.833537
+R413,HOTEL_001,Karan,1,"Not worth it, rooms were smelly",internal,2025-06-15T09:00:54.833537
+R414,HOTEL_001,Sonal,3,Rooms were fine but service was slow. Tariff was 5200 INR,google,2026-01-27T09:00:54.833537
+R415,HOTEL_001,Neha,5,Loved the breakfast buffet and staff behavior. Tariff was 5200 INR,booking,2025-05-17T09:00:54.833537
+R416,HOTEL_001,Arjun,3,"Food theek tha, nothing great",google,2025-10-13T09:00:54.833537
+R417,HOTEL_001,Neha,5,"Very comfortable rooms, will definitely visit again. Call me at 9876543210",booking,2025-08-03T09:00:54.833537
+R418,HOTEL_001,Vikas,3,"Average stay, decent location",google,2025-06-24T09:00:54.833537
+R419,HOTEL_001,Karan,4,Overall stay okay tha. Tariff was 5200 INR,google,2025-05-21T09:00:54.833537
+R420,HOTEL_001,Ankit,3,"Hotel was okay, nothing special",booking,2025-04-22T09:00:54.833537
+R421,HOTEL_001,Rahul,2,"Food theek tha, nothing great",internal,2025-08-30T09:00:54.833537
+R422,HOTEL_001,Amit,5,"Great stay, rooms were very clean and staff was polite. Price is too high for this hotel",internal,2025-11-29T09:00:54.833537
+R423,HOTEL_001,Nikhil,3,"Hotel was okay, nothing special",booking,2025-12-30T09:00:54.833537
+R424,HOTEL_001,Karan,5,Gym and pool were well maintained. Call me at 9876543210,booking,2025-06-27T09:00:54.833537
+R425,HOTEL_001,Rohit,2,"Not worth it, rooms were smelly",internal,2025-02-26T09:00:54.833537
+R426,HOTEL_001,Karan,4,"Room clean tha but staff thoda slow tha. Email me at test@gmail.com. Manager Ravi handled the issue. Worst service, staff is stupid",google,2026-01-09T09:00:54.833537
+R427,HOTEL_001,Priya,5,"Very comfortable rooms, will definitely visit again. Cost was ₹4500. This hotel is shit",google,2026-01-11T09:00:54.833537
+R428,HOTEL_001,Priya,5,Excellent hotel with prime location and good amenities. Contact: demo@yahoo.com,google,2025-09-09T09:00:54.833537
+R429,HOTEL_001,Sneha,1,"Not worth it, rooms were smelly. Tariff was 5200 INR. Email me at test@gmail.com",google,2025-03-30T09:00:54.833537
+R430,HOTEL_001,Rohit,5,Gym and pool were well maintained,google,2025-12-31T09:00:54.833537
+R431,HOTEL_001,Rahul,5,Loved the breakfast buffet and staff behavior,google,2025-07-06T09:00:54.833537
+R432,HOTEL_001,Pooja,1,Poor maintenance and rude staff. Cost was ₹4500,google,2025-08-06T09:00:54.833537
+R433,HOTEL_001,Nikhil,3,"Average stay, decent location. I paid 6000 per night. My number is 9123456789. Contact: demo@yahoo.com. Manager Ravi handled the issue",booking,2026-02-09T09:00:54.833537
+R434,HOTEL_001,Priya,2,"Bad experience, too much noise at night. I paid 6000 per night",google,2026-01-03T09:00:54.833537
+R435,HOTEL_001,Pooja,4,Loved the breakfast buffet and staff behavior,booking,2025-08-17T09:00:54.833537
+R436,HOTEL_001,Rohit,4,Gym and pool were well maintained,internal,2025-10-26T09:00:54.833537
+R437,HOTEL_001,Rahul,5,Excellent hotel with prime location and good amenities,internal,2025-07-07T09:00:54.833537
+R438,HOTEL_001,Amit,5,"Very comfortable rooms, will definitely visit again",internal,2025-12-22T09:00:54.833537
+R439,HOTEL_001,Arjun,1,Poor maintenance and rude staff,internal,2025-09-21T09:00:54.833537
+R440,HOTEL_001,Vikas,5,"Very comfortable rooms, will definitely visit again. I paid 6000 per night. Check www.fakehotel.com",booking,2025-10-13T09:00:54.833537
+R441,HOTEL_001,Simran,3,"Okay experience, food was average",google,2025-04-15T09:00:54.833537
+R442,HOTEL_001,Arjun,2,"Terrible hotel, bathroom smelled bad",internal,2026-01-19T09:00:54.833537
+R443,HOTEL_001,Priya,3,"Food theek tha, nothing great",google,2025-09-07T09:00:54.833537
+R444,HOTEL_001,Amit,1,AC was not working properly. Email me at test@gmail.com,booking,2025-09-23T09:00:54.833537
+R445,HOTEL_001,Priya,2,"Terrible hotel, bathroom smelled bad. I paid 6000 per night. More details at http://spamlink.com",booking,2026-01-24T09:00:54.833537
+R446,HOTEL_001,Karan,5,Excellent hotel with prime location and good amenities. Price is too high for this hotel. Call me at 9876543210,booking,2025-04-08T09:00:54.833537
+R447,HOTEL_001,Ankit,4,"Great stay, rooms were very clean and staff was polite",internal,2025-04-14T09:00:54.833537
+R448,HOTEL_001,Rahul,3,Overall stay okay tha. Tariff was 5200 INR,google,2025-12-30T09:00:54.833537
+R449,HOTEL_001,Sneha,3,"Hotel was okay, nothing special. Email me at test@gmail.com",google,2025-05-25T09:00:54.833537
+R450,HOTEL_001,Neha,5,Excellent hotel with prime location and good amenities,internal,2025-03-26T09:00:54.833537
+R451,HOTEL_001,Sneha,3,Stay was acceptable for one night,google,2025-10-06T09:00:54.833537
+R452,HOTEL_001,Sonal,2,Location achi hai but noise zyada tha,google,2026-01-30T09:00:54.833537
+R453,HOTEL_001,Rahul,3,Stay was acceptable for one night. I paid 6000 per night. My number is 9123456789,booking,2025-05-29T09:00:54.833537
+R454,HOTEL_001,Priya,5,"Great stay, rooms were very clean and staff was polite",google,2025-10-14T09:00:54.833537
+R455,HOTEL_001,Simran,4,"Amazing service, bathroom was spotless. Contact: demo@yahoo.com. Worst service, staff is stupid",internal,2025-05-23T09:00:54.833537
+R456,HOTEL_001,Sonal,5,"Great stay, rooms were very clean and staff was polite",internal,2026-01-04T09:00:54.833537
+R457,HOTEL_001,Priya,1,"Terrible hotel, bathroom smelled bad. My number is 9123456789",google,2025-07-11T09:00:54.833537
+R458,HOTEL_001,Arjun,2,Room clean tha but staff thoda slow tha. Tariff was 5200 INR,booking,2025-03-07T09:00:54.833537
+R459,HOTEL_001,Nikhil,5,Loved the breakfast buffet and staff behavior,google,2025-09-30T09:00:54.833537
+R460,HOTEL_001,Rahul,5,"Very comfortable rooms, will definitely visit again",internal,2025-10-18T09:00:54.833537
+R461,HOTEL_001,Sneha,4,Overall stay okay tha. Call me at 9876543210. Check www.fakehotel.com,google,2025-07-01T09:00:54.833537
+R462,HOTEL_001,Rahul,4,"Very comfortable rooms, will definitely visit again. I paid 6000 per night",google,2025-09-26T09:00:54.833537
+R463,HOTEL_001,Rohit,5,"Great stay, rooms were very clean and staff was polite",internal,2025-03-12T09:00:54.833537
+R464,HOTEL_001,Rohit,2,"Bad experience, too much noise at night",google,2025-04-18T09:00:54.833537
+R465,HOTEL_001,Sneha,4,"Great stay, rooms were very clean and staff was polite. Email me at test@gmail.com",google,2025-10-14T09:00:54.833537
+R466,HOTEL_001,Sneha,5,Excellent hotel with prime location and good amenities. Cost was ₹4500,internal,2025-12-05T09:00:54.833537
+R467,HOTEL_001,Simran,2,Location achi hai but noise zyada tha,internal,2025-04-17T09:00:54.833537
+R468,HOTEL_001,Sneha,5,Gym and pool were well maintained. Owner Mr Sharma was present,booking,2025-08-13T09:00:54.833537
+R469,HOTEL_001,Simran,2,"Food theek tha, nothing great",booking,2025-07-29T09:00:54.833537
+R470,HOTEL_001,Priya,4,Excellent hotel with prime location and good amenities,internal,2025-03-30T09:00:54.833537
+R471,HOTEL_001,Sonal,5,Gym and pool were well maintained,google,2025-05-26T09:00:54.833537
+R472,HOTEL_001,Rahul,5,"Amazing service, bathroom was spotless. Price is too high for this hotel. Contact: demo@yahoo.com",internal,2025-03-23T09:00:54.833537
+R473,HOTEL_001,Amit,4,"Food theek tha, nothing great",internal,2025-11-21T09:00:54.833537
+R474,HOTEL_001,Rahul,3,"Average stay, decent location. I paid 6000 per night",internal,2025-12-18T09:00:54.833537
+R475,HOTEL_001,Ankit,3,"Average stay, decent location. Tariff was 5200 INR",google,2025-04-24T09:00:54.833537
+R476,HOTEL_001,Karan,5,Loved the breakfast buffet and staff behavior. Cost was ₹4500. Manager Ravi handled the issue,google,2025-04-16T09:00:54.833537
+R477,HOTEL_001,Rahul,5,"Great stay, rooms were very clean and staff was polite. Cost was ₹4500. Manager Ravi handled the issue",google,2026-01-31T09:00:54.833537
+R478,HOTEL_001,Pooja,2,"Terrible hotel, bathroom smelled bad. I paid 6000 per night",booking,2025-12-21T09:00:54.833537
+R479,HOTEL_001,Nikhil,2,"Terrible hotel, bathroom smelled bad",booking,2025-11-12T09:00:54.833537
+R480,HOTEL_001,Rohit,2,"Worst stay ever, very dirty rooms. Call me at 9876543210",internal,2025-02-28T09:00:54.833537
+R481,HOTEL_001,Sneha,3,"Hotel was okay, nothing special",booking,2025-04-23T09:00:54.833537
+R482,HOTEL_001,Amit,5,Loved the breakfast buffet and staff behavior. Email me at test@gmail.com,booking,2025-12-15T09:00:54.833537
+R483,HOTEL_001,Nikhil,2,AC was not working properly. My number is 9123456789. Email me at test@gmail.com,google,2025-04-02T09:00:54.833537
+R484,HOTEL_001,Rahul,2,Overall stay okay tha. This hotel is shit,booking,2025-03-24T09:00:54.833537
+R485,HOTEL_001,Simran,3,"Average stay, decent location. Cost was ₹4500",booking,2025-06-01T09:00:54.833537
+R486,HOTEL_001,Simran,4,Excellent hotel with prime location and good amenities. Check www.fakehotel.com,internal,2025-06-24T09:00:54.833537
+R487,HOTEL_001,Rohit,5,"Amazing service, bathroom was spotless. Price is too high for this hotel",google,2025-05-20T09:00:54.833537
+R488,HOTEL_001,Karan,3,Rooms were fine but service was slow,booking,2025-06-05T09:00:54.833537
+R489,HOTEL_001,Sonal,4,"Amazing service, bathroom was spotless",internal,2025-03-28T09:00:54.833537
+R490,HOTEL_001,Sneha,5,"Amazing service, bathroom was spotless. Cost was ₹4500",internal,2025-08-08T09:00:54.833537
+R491,HOTEL_001,Neha,3,"Hotel was okay, nothing special. Email me at test@gmail.com",internal,2025-11-25T09:00:54.833537
+R492,HOTEL_001,Vikas,3,Stay was acceptable for one night. Tariff was 5200 INR,internal,2025-10-23T09:00:54.833537
+R493,HOTEL_001,Karan,5,Gym and pool were well maintained,booking,2025-10-07T09:00:54.833537
+R494,HOTEL_001,Ankit,5,Gym and pool were well maintained. I paid 6000 per night,booking,2025-12-21T09:00:54.833537
+R495,HOTEL_001,Amit,2,"Terrible hotel, bathroom smelled bad",booking,2026-01-17T09:00:54.833537
+R496,HOTEL_001,Karan,3,Rooms were fine but service was slow,internal,2025-08-04T09:00:54.833537
+R497,HOTEL_001,Simran,5,"Very comfortable rooms, will definitely visit again. Tariff was 5200 INR",internal,2025-11-23T09:00:54.833537
+R498,HOTEL_001,Rohit,3,Rooms were fine but service was slow,booking,2025-09-01T09:00:54.833537
+R499,HOTEL_001,Pooja,3,"Average stay, decent location",internal,2026-01-23T09:00:54.833537
+R500,HOTEL_001,Neha,4,Gym and pool were well maintained. Price is too high for this hotel,booking,2025-05-29T09:00:54.833537
+R501,HOTEL_001,Simran,3,Rooms were fine but service was slow,google,2025-06-07T09:00:54.833537
+R502,HOTEL_001,Neha,2,"Terrible hotel, bathroom smelled bad. Check www.fakehotel.com",google,2025-07-02T09:00:54.833537
+R503,HOTEL_001,Simran,5,Gym and pool were well maintained. Cost was ₹4500. Check www.fakehotel.com,booking,2025-09-28T09:00:54.833537
+R504,HOTEL_001,Rohit,5,"Amazing service, bathroom was spotless. Tariff was 5200 INR. Call me at 9876543210. Manager Ravi handled the issue. This hotel is shit",booking,2025-12-07T09:00:54.833537
+R505,HOTEL_001,Rohit,1,"Not worth it, rooms were smelly. Cost was ₹4500",internal,2025-06-09T09:00:54.833537
+R506,HOTEL_001,Priya,5,Gym and pool were well maintained. Check www.fakehotel.com,internal,2025-06-25T09:00:54.833537
+R507,HOTEL_001,Priya,5,"Great stay, rooms were very clean and staff was polite. Price is too high for this hotel",internal,2025-10-18T09:00:54.833537
+R508,HOTEL_001,Rahul,5,Gym and pool were well maintained. I paid 6000 per night,google,2025-12-06T09:00:54.833537
+R509,HOTEL_001,Priya,4,Overall stay okay tha. My number is 9123456789,internal,2025-07-17T09:00:54.833537
+R510,HOTEL_001,Sneha,3,Stay was acceptable for one night. Owner Mr Sharma was present,internal,2025-09-24T09:00:54.833537
+R511,HOTEL_001,Sneha,5,"Very comfortable rooms, will definitely visit again. This hotel is shit",booking,2025-03-25T09:00:54.833537
+R512,HOTEL_001,Vikas,3,"Average stay, decent location",booking,2025-09-17T09:00:54.833537
+R513,HOTEL_001,Sneha,4,"Food theek tha, nothing great. I paid 6000 per night",google,2025-04-09T09:00:54.833537
+R514,HOTEL_001,Rahul,1,"Worst stay ever, very dirty rooms",google,2025-02-22T09:00:54.833537
+R515,HOTEL_001,Ankit,3,Stay was acceptable for one night,google,2025-12-19T09:00:54.833537
+R516,HOTEL_001,Ankit,3,Stay was acceptable for one night. Owner Mr Sharma was present,internal,2025-03-29T09:00:54.833537
+R517,HOTEL_001,Sneha,5,"Great stay, rooms were very clean and staff was polite. My number is 9123456789",google,2025-06-07T09:00:54.833537
+R518,HOTEL_001,Nikhil,3,"Hotel was okay, nothing special. Cost was ₹4500. More details at http://spamlink.com",booking,2025-12-26T09:00:54.833537
+R519,HOTEL_001,Pooja,1,"Bad experience, too much noise at night. I paid 6000 per night",internal,2025-05-15T09:00:54.833537
+R520,HOTEL_001,Nikhil,4,Loved the breakfast buffet and staff behavior. Call me at 9876543210. This hotel is shit,internal,2025-09-07T09:00:54.833537
+R521,HOTEL_001,Arjun,4,"Very comfortable rooms, will definitely visit again",google,2026-01-12T09:00:54.833537
+R522,HOTEL_001,Amit,5,"Great stay, rooms were very clean and staff was polite. I paid 6000 per night",internal,2025-11-23T09:00:54.833537
+R523,HOTEL_001,Simran,2,"Bad experience, too much noise at night. Email me at test@gmail.com. Check www.fakehotel.com",google,2025-11-03T09:00:54.833537
+R524,HOTEL_001,Pooja,4,Excellent hotel with prime location and good amenities,google,2025-05-05T09:00:54.833537
+R525,HOTEL_001,Rahul,4,Excellent hotel with prime location and good amenities. Cost was ₹4500. My number is 9123456789,internal,2025-03-14T09:00:54.833537
+R526,HOTEL_001,Ankit,2,Poor maintenance and rude staff. Check www.fakehotel.com,internal,2025-09-25T09:00:54.833537
+R527,HOTEL_001,Karan,3,"Hotel was okay, nothing special. Call me at 9876543210",booking,2025-04-05T09:00:54.833537
+R528,HOTEL_001,Simran,4,Excellent hotel with prime location and good amenities. Tariff was 5200 INR,internal,2025-11-06T09:00:54.833537
+R529,HOTEL_001,Sneha,1,"Not worth it, rooms were smelly. Contact: demo@yahoo.com",google,2025-08-05T09:00:54.833537
+R530,HOTEL_001,Vikas,2,"Food theek tha, nothing great",internal,2026-01-19T09:00:54.833537
+R531,HOTEL_001,Sneha,5,Gym and pool were well maintained. Check www.fakehotel.com,internal,2025-10-10T09:00:54.833537
+R532,HOTEL_001,Vikas,3,"Hotel was okay, nothing special",internal,2025-03-26T09:00:54.833537
+R533,HOTEL_001,Nikhil,4,Gym and pool were well maintained. Check www.fakehotel.com,booking,2025-09-27T09:00:54.833537
+R534,HOTEL_001,Priya,5,"Great stay, rooms were very clean and staff was polite. My number is 9123456789",internal,2025-06-15T09:00:54.833537
+R535,HOTEL_001,Rohit,3,"Okay experience, food was average",booking,2025-08-04T09:00:54.833537
+R536,HOTEL_001,Sneha,5,"Amazing service, bathroom was spotless",internal,2026-01-16T09:00:54.833537
+R537,HOTEL_001,Pooja,4,"Amazing service, bathroom was spotless",google,2025-04-16T09:00:54.833537
+R538,HOTEL_001,Vikas,4,Loved the breakfast buffet and staff behavior,internal,2025-11-10T09:00:54.833537
+R539,HOTEL_001,Priya,5,Gym and pool were well maintained. Email me at test@gmail.com,booking,2025-06-07T09:00:54.833537
+R540,HOTEL_001,Karan,3,Stay was acceptable for one night,google,2026-02-13T09:00:54.833537
+R541,HOTEL_001,Arjun,2,"Not worth it, rooms were smelly",internal,2026-01-26T09:00:54.833537
+R542,HOTEL_001,Nikhil,1,"Not worth it, rooms were smelly",booking,2025-11-09T09:00:54.833537
+R543,HOTEL_001,Ankit,1,Poor maintenance and rude staff,internal,2025-06-08T09:00:54.833537
+R544,HOTEL_001,Amit,5,Gym and pool were well maintained,google,2025-05-10T09:00:54.833537
+R545,HOTEL_001,Sneha,5,"Amazing service, bathroom was spotless. I paid 6000 per night",google,2025-04-07T09:00:54.833537
+R546,HOTEL_001,Vikas,3,"Average stay, decent location",booking,2025-10-16T09:00:54.833537
+R547,HOTEL_001,Nikhil,1,"Worst stay ever, very dirty rooms",google,2025-07-26T09:00:54.833537
+R548,HOTEL_001,Arjun,2,Location achi hai but noise zyada tha. Tariff was 5200 INR. Call me at 9876543210. Contact: demo@yahoo.com,booking,2025-05-31T09:00:54.833537
+R549,HOTEL_001,Rohit,1,"Worst stay ever, very dirty rooms. I paid 6000 per night. Owner Mr Sharma was present",internal,2025-08-21T09:00:54.833537
+R550,HOTEL_001,Pooja,2,"Terrible hotel, bathroom smelled bad. Price is too high for this hotel. Owner Mr Sharma was present",booking,2025-04-13T09:00:54.833537
+R551,HOTEL_001,Rahul,5,"Amazing service, bathroom was spotless. Manager Ravi handled the issue",internal,2025-07-19T09:00:54.833537
+R552,HOTEL_001,Rahul,5,"Great stay, rooms were very clean and staff was polite. I paid 6000 per night. My number is 9123456789. Contact: demo@yahoo.com. Owner Mr Sharma was present",booking,2025-12-26T09:00:54.833537
+R553,HOTEL_001,Priya,3,"Hotel was okay, nothing special. Price is too high for this hotel",google,2025-05-16T09:00:54.833537
+R554,HOTEL_001,Amit,3,"Hotel was okay, nothing special",internal,2025-06-23T09:00:54.833537
+R555,HOTEL_001,Amit,4,Excellent hotel with prime location and good amenities. Cost was ₹4500. Email me at test@gmail.com,booking,2025-09-03T09:00:54.833537
+R556,HOTEL_001,Nikhil,3,Rooms were fine but service was slow,internal,2025-06-29T09:00:54.833537
+R557,HOTEL_001,Karan,5,"Great stay, rooms were very clean and staff was polite. This hotel is shit",google,2025-10-01T09:00:54.833537
+R558,HOTEL_001,Rahul,4,Gym and pool were well maintained,internal,2025-03-22T09:00:54.833537
+R559,HOTEL_001,Rahul,3,Stay was acceptable for one night. Check www.fakehotel.com,google,2025-10-20T09:00:54.833537
+R560,HOTEL_001,Pooja,5,"Very comfortable rooms, will definitely visit again",internal,2025-09-02T09:00:54.833537
+R561,HOTEL_001,Nikhil,3,"Okay experience, food was average. Call me at 9876543210",booking,2026-02-17T09:00:54.833537
+R562,HOTEL_001,Karan,3,"Okay experience, food was average. I paid 6000 per night. My number is 9123456789",booking,2025-10-17T09:00:54.833537
+R563,HOTEL_001,Simran,2,AC was not working properly,google,2025-08-27T09:00:54.833537
+R564,HOTEL_001,Arjun,5,Gym and pool were well maintained. Tariff was 5200 INR,booking,2025-08-25T09:00:54.833537
+R565,HOTEL_001,Sonal,3,Location achi hai but noise zyada tha. Cost was ₹4500. My number is 9123456789,internal,2025-09-02T09:00:54.833537
+R566,HOTEL_001,Priya,5,"Amazing service, bathroom was spotless. Tariff was 5200 INR",internal,2025-04-22T09:00:54.833537
+R567,HOTEL_001,Ankit,3,Room clean tha but staff thoda slow tha,booking,2025-07-04T09:00:54.833537
+R568,HOTEL_001,Pooja,3,"Average stay, decent location. Check www.fakehotel.com",internal,2025-08-17T09:00:54.833537
+R569,HOTEL_001,Vikas,3,Rooms were fine but service was slow. Cost was ₹4500,internal,2025-06-27T09:00:54.833537
+R570,HOTEL_001,Ankit,3,Rooms were fine but service was slow,google,2025-07-30T09:00:54.833537
+R571,HOTEL_001,Amit,4,Excellent hotel with prime location and good amenities,booking,2026-01-23T09:00:54.833537
+R572,HOTEL_001,Vikas,3,Stay was acceptable for one night,booking,2025-07-05T09:00:54.833537
+R573,HOTEL_001,Rohit,5,"Very comfortable rooms, will definitely visit again",booking,2025-04-28T09:00:54.833537
+R574,HOTEL_001,Ankit,1,"Worst stay ever, very dirty rooms. Worst service, staff is stupid",internal,2025-12-04T09:00:54.833537
+R575,HOTEL_001,Neha,4,"Very comfortable rooms, will definitely visit again. Worst service, staff is stupid",internal,2026-01-09T09:00:54.833537
+R576,HOTEL_001,Arjun,1,"Terrible hotel, bathroom smelled bad. Tariff was 5200 INR",google,2025-12-14T09:00:54.833537
+R577,HOTEL_001,Neha,5,"Amazing service, bathroom was spotless",booking,2025-05-12T09:00:54.833537
+R578,HOTEL_001,Priya,5,Excellent hotel with prime location and good amenities,booking,2025-08-26T09:00:54.833537
+R579,HOTEL_001,Sonal,3,Stay was acceptable for one night. More details at http://spamlink.com,internal,2026-01-11T09:00:54.833537
+R580,HOTEL_001,Priya,1,AC was not working properly. Manager Ravi handled the issue. This hotel is shit,booking,2025-06-05T09:00:54.833537
+R581,HOTEL_001,Arjun,3,"Average stay, decent location. My number is 9123456789. More details at http://spamlink.com",booking,2025-07-29T09:00:54.833537
+R582,HOTEL_001,Ankit,3,"Okay experience, food was average",internal,2025-06-06T09:00:54.833537
+R583,HOTEL_001,Vikas,3,"Average stay, decent location. I paid 6000 per night",google,2025-07-23T09:00:54.833537
+R584,HOTEL_001,Priya,4,"Room clean tha but staff thoda slow tha. Worst service, staff is stupid",google,2025-10-30T09:00:54.833537
+R585,HOTEL_001,Rohit,4,Gym and pool were well maintained,booking,2026-02-06T09:00:54.833537
+R586,HOTEL_001,Arjun,4,"Food theek tha, nothing great",booking,2025-08-18T09:00:54.833537
+R587,HOTEL_001,Neha,3,"Average stay, decent location. Contact: demo@yahoo.com",booking,2025-10-08T09:00:54.833537
+R588,HOTEL_001,Rohit,1,AC was not working properly. Check www.fakehotel.com,google,2026-01-04T09:00:54.833537
+R589,HOTEL_001,Sonal,3,Stay was acceptable for one night,internal,2025-11-18T09:00:54.833537
+R590,HOTEL_001,Neha,4,"Great stay, rooms were very clean and staff was polite",internal,2025-11-08T09:00:54.833537
+R591,HOTEL_001,Sonal,3,"Food theek tha, nothing great",booking,2025-10-29T09:00:54.833537
+R592,HOTEL_001,Nikhil,4,Loved the breakfast buffet and staff behavior,google,2026-01-04T09:00:54.833537
+R593,HOTEL_001,Vikas,2,"Worst stay ever, very dirty rooms. Price is too high for this hotel",google,2025-03-07T09:00:54.833537
+R594,HOTEL_001,Sonal,1,"Worst stay ever, very dirty rooms",internal,2025-10-23T09:00:54.833537
+R595,HOTEL_001,Simran,2,"Not worth it, rooms were smelly",google,2026-01-08T09:00:54.833537
+R596,HOTEL_001,Neha,2,"Food theek tha, nothing great",google,2025-09-18T09:00:54.833537
+R597,HOTEL_001,Ankit,3,"Hotel was okay, nothing special",google,2025-12-05T09:00:54.833537
+R598,HOTEL_001,Ankit,2,Poor maintenance and rude staff. Call me at 9876543210. Check www.fakehotel.com,booking,2026-01-01T09:00:54.833537
+R599,HOTEL_001,Amit,2,"Bad experience, too much noise at night. Owner Mr Sharma was present",internal,2025-06-12T09:00:54.833537
+R600,HOTEL_001,Sonal,5,Loved the breakfast buffet and staff behavior,internal,2025-12-30T09:00:54.833537
+R601,HOTEL_001,Simran,5,Loved the breakfast buffet and staff behavior. Owner Mr Sharma was present,booking,2025-05-19T09:00:54.833537
+R602,HOTEL_001,Priya,3,"Okay experience, food was average. Worst service, staff is stupid",internal,2025-10-14T09:00:54.833537
+R603,HOTEL_001,Simran,2,"Not worth it, rooms were smelly. Price is too high for this hotel",internal,2025-06-13T09:00:54.833537
+R604,HOTEL_001,Sneha,2,"Terrible hotel, bathroom smelled bad",google,2025-05-18T09:00:54.833537
+R605,HOTEL_001,Arjun,3,"Hotel was okay, nothing special",internal,2025-12-10T09:00:54.833537
+R606,HOTEL_001,Priya,1,"Not worth it, rooms were smelly. Price is too high for this hotel",booking,2025-04-19T09:00:54.833537
+R607,HOTEL_001,Rahul,1,"Worst stay ever, very dirty rooms. My number is 9123456789",google,2025-08-08T09:00:54.833537
+R608,HOTEL_001,Sonal,5,"Very comfortable rooms, will definitely visit again",internal,2026-01-05T09:00:54.833537
+R609,HOTEL_001,Arjun,3,Room clean tha but staff thoda slow tha. Call me at 9876543210. Email me at test@gmail.com. More details at http://spamlink.com,booking,2025-10-30T09:00:54.833537
+R610,HOTEL_001,Priya,5,Loved the breakfast buffet and staff behavior,booking,2025-03-29T09:00:54.833537
+R611,HOTEL_001,Nikhil,1,Poor maintenance and rude staff. Owner Mr Sharma was present. This hotel is shit,booking,2025-10-25T09:00:54.833537
+R612,HOTEL_001,Ankit,2,"Not worth it, rooms were smelly. Email me at test@gmail.com",booking,2025-09-07T09:00:54.833537
+R613,HOTEL_001,Ankit,3,Stay was acceptable for one night. I paid 6000 per night,internal,2025-05-24T09:00:54.833537
+R614,HOTEL_001,Simran,3,Stay was acceptable for one night,google,2025-06-03T09:00:54.833537
+R615,HOTEL_001,Karan,3,Stay was acceptable for one night,google,2025-12-28T09:00:54.833537
+R616,HOTEL_001,Vikas,3,Rooms were fine but service was slow. Call me at 9876543210,google,2026-02-02T09:00:54.833537
+R617,HOTEL_001,Nikhil,5,"Very comfortable rooms, will definitely visit again. I paid 6000 per night",internal,2025-06-09T09:00:54.833537
+R618,HOTEL_001,Simran,3,Stay was acceptable for one night. I paid 6000 per night,internal,2025-11-07T09:00:54.833537
+R619,HOTEL_001,Rahul,1,"Not worth it, rooms were smelly. My number is 9123456789. More details at http://spamlink.com",google,2026-01-09T09:00:54.833537
+R620,HOTEL_001,Ankit,4,Loved the breakfast buffet and staff behavior. Cost was ₹4500,google,2025-12-14T09:00:54.833537
+R621,HOTEL_001,Priya,3,"Average stay, decent location. Cost was ₹4500. My number is 9123456789",internal,2025-12-25T09:00:54.833537
+R622,HOTEL_001,Rohit,3,"Average stay, decent location",booking,2026-02-13T09:00:54.833537
+R623,HOTEL_001,Arjun,5,"Very comfortable rooms, will definitely visit again",google,2025-07-14T09:00:54.833537
+R624,HOTEL_001,Karan,1,Poor maintenance and rude staff. Email me at test@gmail.com. This hotel is shit,booking,2026-01-15T09:00:54.833537
+R625,HOTEL_001,Arjun,3,"Okay experience, food was average",google,2025-09-18T09:00:54.833537
+R626,HOTEL_001,Karan,2,Location achi hai but noise zyada tha,booking,2025-07-22T09:00:54.833537
+R627,HOTEL_001,Sonal,4,"Great stay, rooms were very clean and staff was polite. Email me at test@gmail.com",google,2025-05-08T09:00:54.833537
+R628,HOTEL_001,Rohit,1,Poor maintenance and rude staff. Email me at test@gmail.com,google,2025-06-16T09:00:54.833537
+R629,HOTEL_001,Amit,1,AC was not working properly. Cost was ₹4500,google,2025-11-29T09:00:54.833537
+R630,HOTEL_001,Amit,1,"Terrible hotel, bathroom smelled bad. I paid 6000 per night",google,2025-06-21T09:00:54.833537
+R631,HOTEL_001,Vikas,1,AC was not working properly,booking,2025-09-12T09:00:54.833537
+R632,HOTEL_001,Sneha,1,Poor maintenance and rude staff,internal,2025-11-15T09:00:54.833537
+R633,HOTEL_001,Pooja,2,Poor maintenance and rude staff. Tariff was 5200 INR,internal,2025-11-01T09:00:54.833537
+R634,HOTEL_001,Neha,5,Loved the breakfast buffet and staff behavior,google,2025-03-01T09:00:54.833537
+R635,HOTEL_001,Karan,5,"Amazing service, bathroom was spotless. Owner Mr Sharma was present",internal,2025-04-15T09:00:54.833537
+R636,HOTEL_001,Amit,2,"Bad experience, too much noise at night. I paid 6000 per night. Worst service, staff is stupid",booking,2025-07-26T09:00:54.833537
+R637,HOTEL_001,Karan,3,Location achi hai but noise zyada tha,google,2025-11-06T09:00:54.833537
+R638,HOTEL_001,Priya,4,"Great stay, rooms were very clean and staff was polite. Check www.fakehotel.com",google,2025-06-20T09:00:54.833537
+R639,HOTEL_001,Ankit,4,"Great stay, rooms were very clean and staff was polite",internal,2025-10-04T09:00:54.833537
+R640,HOTEL_001,Ankit,3,"Hotel was okay, nothing special. More details at http://spamlink.com",google,2025-09-25T09:00:54.833537
+R641,HOTEL_001,Sneha,5,Loved the breakfast buffet and staff behavior,google,2025-03-14T09:00:54.833537
+R642,HOTEL_001,Arjun,3,Rooms were fine but service was slow,internal,2025-04-29T09:00:54.833537
+R643,HOTEL_001,Nikhil,4,"Amazing service, bathroom was spotless. Tariff was 5200 INR. Check www.fakehotel.com",booking,2026-01-23T09:00:54.833537
+R644,HOTEL_001,Amit,2,"Terrible hotel, bathroom smelled bad. Tariff was 5200 INR",booking,2025-03-18T09:00:54.833537
+R645,HOTEL_001,Vikas,2,Poor maintenance and rude staff,internal,2025-12-04T09:00:54.833537
+R646,HOTEL_001,Rahul,3,Stay was acceptable for one night. Cost was ₹4500,google,2025-09-02T09:00:54.833537
+R647,HOTEL_001,Simran,4,Gym and pool were well maintained,google,2025-06-19T09:00:54.833537
+R648,HOTEL_001,Priya,3,Rooms were fine but service was slow,booking,2025-04-02T09:00:54.833537
+R649,HOTEL_001,Neha,4,Loved the breakfast buffet and staff behavior,booking,2025-03-17T09:00:54.833537
+R650,HOTEL_001,Arjun,5,Excellent hotel with prime location and good amenities. Cost was ₹4500,internal,2026-02-03T09:00:54.833537
+R651,HOTEL_001,Amit,3,Location achi hai but noise zyada tha,booking,2025-07-17T09:00:54.833537
+R652,HOTEL_001,Arjun,3,Rooms were fine but service was slow,booking,2025-04-26T09:00:54.833537
+R653,HOTEL_001,Rahul,5,"Amazing service, bathroom was spotless. Email me at test@gmail.com",internal,2025-08-03T09:00:54.833537
+R654,HOTEL_001,Sonal,1,"Not worth it, rooms were smelly",internal,2025-10-09T09:00:54.833537
+R655,HOTEL_001,Arjun,1,"Terrible hotel, bathroom smelled bad",internal,2025-06-08T09:00:54.833537
+R656,HOTEL_001,Karan,3,"Average stay, decent location. Tariff was 5200 INR",internal,2025-11-05T09:00:54.833537
+R657,HOTEL_001,Neha,4,Loved the breakfast buffet and staff behavior,internal,2025-03-15T09:00:54.833537
+R658,HOTEL_001,Rahul,3,Stay was acceptable for one night,google,2025-08-22T09:00:54.833537
+R659,HOTEL_001,Nikhil,3,Stay was acceptable for one night. Check www.fakehotel.com,internal,2025-10-22T09:00:54.833537
+R660,HOTEL_001,Pooja,1,Poor maintenance and rude staff. Price is too high for this hotel. Call me at 9876543210,google,2025-04-12T09:00:54.833537
+R661,HOTEL_001,Sonal,1,"Worst stay ever, very dirty rooms",booking,2025-05-26T09:00:54.833537
+R662,HOTEL_001,Simran,4,"Great stay, rooms were very clean and staff was polite. Call me at 9876543210",google,2025-03-08T09:00:54.833537
+R663,HOTEL_001,Pooja,3,"Okay experience, food was average",google,2025-08-23T09:00:54.833537
+R664,HOTEL_001,Pooja,1,Poor maintenance and rude staff,booking,2025-07-29T09:00:54.833537
+R665,HOTEL_001,Simran,3,Rooms were fine but service was slow. My number is 9123456789. Email me at test@gmail.com,internal,2025-07-04T09:00:54.833537
+R666,HOTEL_001,Vikas,4,Loved the breakfast buffet and staff behavior. Cost was ₹4500,booking,2025-06-13T09:00:54.833537
+R667,HOTEL_001,Karan,5,Excellent hotel with prime location and good amenities,booking,2025-08-08T09:00:54.833537
+R668,HOTEL_001,Simran,1,"Bad experience, too much noise at night",google,2025-07-25T09:00:54.833537
+R669,HOTEL_001,Rohit,4,"Great stay, rooms were very clean and staff was polite. Call me at 9876543210",internal,2025-09-14T09:00:54.833537
+R670,HOTEL_001,Rohit,3,Rooms were fine but service was slow. Call me at 9876543210,booking,2025-03-23T09:00:54.833537
+R671,HOTEL_001,Karan,5,Excellent hotel with prime location and good amenities. I paid 6000 per night. More details at http://spamlink.com,booking,2025-12-11T09:00:54.833537
+R672,HOTEL_001,Karan,2,Room clean tha but staff thoda slow tha. Email me at test@gmail.com,internal,2025-04-23T09:00:54.833537
+R673,HOTEL_001,Pooja,3,Rooms were fine but service was slow. Price is too high for this hotel. More details at http://spamlink.com. Manager Ravi handled the issue,google,2025-06-29T09:00:54.833537
+R674,HOTEL_001,Arjun,4,"Very comfortable rooms, will definitely visit again",google,2025-07-31T09:00:54.833537
+R675,HOTEL_001,Arjun,3,"Hotel was okay, nothing special. Call me at 9876543210",booking,2025-04-23T09:00:54.833537
+R676,HOTEL_001,Nikhil,2,"Not worth it, rooms were smelly. Worst service, staff is stupid",internal,2025-05-26T09:00:54.833537
+R677,HOTEL_001,Arjun,2,"Not worth it, rooms were smelly",google,2026-02-06T09:00:54.833537
+R678,HOTEL_001,Amit,5,"Amazing service, bathroom was spotless. Price is too high for this hotel. Email me at test@gmail.com. Manager Ravi handled the issue",google,2025-09-08T09:00:54.833537
+R679,HOTEL_001,Vikas,2,AC was not working properly. Check www.fakehotel.com,booking,2025-03-28T09:00:54.833537
+R680,HOTEL_001,Sonal,3,Stay was acceptable for one night,booking,2026-01-12T09:00:54.833537
+R681,HOTEL_001,Simran,4,Excellent hotel with prime location and good amenities,booking,2025-06-13T09:00:54.833537
+R682,HOTEL_001,Amit,3,"Okay experience, food was average",internal,2025-12-09T09:00:54.833537
+R683,HOTEL_001,Rohit,2,AC was not working properly. Price is too high for this hotel,booking,2025-08-17T09:00:54.833537
+R684,HOTEL_001,Karan,5,"Very comfortable rooms, will definitely visit again. Tariff was 5200 INR",internal,2025-12-07T09:00:54.833537
+R685,HOTEL_001,Pooja,1,"Bad experience, too much noise at night",booking,2025-12-20T09:00:54.833537
+R686,HOTEL_001,Priya,4,"Very comfortable rooms, will definitely visit again. My number is 9123456789",booking,2025-09-18T09:00:54.833537
+R687,HOTEL_001,Amit,2,"Worst stay ever, very dirty rooms",booking,2025-08-25T09:00:54.833537
+R688,HOTEL_001,Pooja,5,"Great stay, rooms were very clean and staff was polite. Price is too high for this hotel",internal,2026-01-24T09:00:54.833537
+R689,HOTEL_001,Simran,4,Gym and pool were well maintained. I paid 6000 per night. Email me at test@gmail.com,google,2025-04-04T09:00:54.833537
+R690,HOTEL_001,Amit,3,Rooms were fine but service was slow. I paid 6000 per night. Email me at test@gmail.com,google,2025-03-03T09:00:54.833537
+R691,HOTEL_001,Rohit,4,Excellent hotel with prime location and good amenities. Cost was ₹4500,internal,2025-04-07T09:00:54.833537
+R692,HOTEL_001,Arjun,3,"Average stay, decent location. This hotel is shit",booking,2025-04-13T09:00:54.833537
+R693,HOTEL_001,Rohit,2,Overall stay okay tha. Cost was ₹4500. This hotel is shit,internal,2025-12-22T09:00:54.833537
+R694,HOTEL_001,Karan,3,"Hotel was okay, nothing special",booking,2025-09-20T09:00:54.833537
+R695,HOTEL_001,Simran,4,"Very comfortable rooms, will definitely visit again. I paid 6000 per night. My number is 9123456789",internal,2025-11-29T09:00:54.833537
+R696,HOTEL_001,Sneha,2,"Not worth it, rooms were smelly. My number is 9123456789. More details at http://spamlink.com",google,2025-10-02T09:00:54.833537
+R697,HOTEL_001,Amit,5,"Great stay, rooms were very clean and staff was polite. Call me at 9876543210",google,2025-10-27T09:00:54.833537
+R698,HOTEL_001,Simran,5,"Great stay, rooms were very clean and staff was polite",booking,2025-11-22T09:00:54.833537
+R699,HOTEL_001,Amit,3,"Hotel was okay, nothing special. Price is too high for this hotel. Check www.fakehotel.com",google,2026-01-25T09:00:54.833537
+R700,HOTEL_001,Sneha,2,"Terrible hotel, bathroom smelled bad. Contact: demo@yahoo.com",google,2025-02-22T09:00:54.833537
+R701,HOTEL_001,Karan,5,Gym and pool were well maintained,google,2025-03-06T09:00:54.833537
+R702,HOTEL_001,Arjun,3,Rooms were fine but service was slow. Email me at test@gmail.com,internal,2025-11-13T09:00:54.833537
+R703,HOTEL_001,Rahul,2,Location achi hai but noise zyada tha,internal,2025-06-27T09:00:54.833537
+R704,HOTEL_001,Karan,3,Stay was acceptable for one night,booking,2025-04-10T09:00:54.833537
+R705,HOTEL_001,Vikas,4,"Food theek tha, nothing great. More details at http://spamlink.com",internal,2025-06-24T09:00:54.833537
+R706,HOTEL_001,Simran,2,"Terrible hotel, bathroom smelled bad. Tariff was 5200 INR. Call me at 9876543210. More details at http://spamlink.com",booking,2025-05-05T09:00:54.833537
+R707,HOTEL_001,Sneha,2,"Terrible hotel, bathroom smelled bad. I paid 6000 per night",booking,2025-04-09T09:00:54.833537
+R708,HOTEL_001,Pooja,4,Loved the breakfast buffet and staff behavior. Contact: demo@yahoo.com. Manager Ravi handled the issue,google,2025-06-10T09:00:54.833537
+R709,HOTEL_001,Arjun,4,"Amazing service, bathroom was spotless",booking,2025-03-23T09:00:54.833537
+R710,HOTEL_001,Sneha,5,"Amazing service, bathroom was spotless",internal,2025-11-17T09:00:54.833537
+R711,HOTEL_001,Nikhil,5,"Amazing service, bathroom was spotless. Manager Ravi handled the issue",booking,2025-06-20T09:00:54.833537
+R712,HOTEL_001,Nikhil,4,"Amazing service, bathroom was spotless. Tariff was 5200 INR",google,2025-10-19T09:00:54.833537
+R713,HOTEL_001,Simran,3,Stay was acceptable for one night,booking,2025-11-21T09:00:54.833537
+R714,HOTEL_001,Arjun,1,"Terrible hotel, bathroom smelled bad",internal,2025-04-12T09:00:54.833537
+R715,HOTEL_001,Priya,5,Loved the breakfast buffet and staff behavior. Price is too high for this hotel,internal,2025-06-29T09:00:54.833537
+R716,HOTEL_001,Vikas,4,"Very comfortable rooms, will definitely visit again",booking,2025-10-08T09:00:54.833537
+R717,HOTEL_001,Amit,1,"Terrible hotel, bathroom smelled bad. Tariff was 5200 INR",google,2025-06-16T09:00:54.833537
+R718,HOTEL_001,Nikhil,3,"Average stay, decent location. Worst service, staff is stupid",booking,2025-12-12T09:00:54.833537
+R719,HOTEL_001,Vikas,3,"Okay experience, food was average. Check www.fakehotel.com",google,2025-03-23T09:00:54.833537
+R720,HOTEL_001,Vikas,5,"Very comfortable rooms, will definitely visit again. Call me at 9876543210",google,2025-10-16T09:00:54.833537
